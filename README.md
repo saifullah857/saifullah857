@@ -2,9 +2,18 @@
 <h3 align="center">AI / ML Learner & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=600&lines=AI + %26+ Machine+Learning+%7C+Python+%7C+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=600&lines=AI+%26+Machine+Learning+%7C+Python+%7C+Deep+Learning" alt="Typing SVG" />
 </p>
 
+<!-- Animated AI & ML images with padding -->
+<p align="center" style="padding-left:20px; padding-right:20px;">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="AI Animation" width="300" style="margin-right: 20px; border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="ML Animation" width="300" style="margin-left: 20px; border-radius:10px;"/>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/55260?s=200&v=4" alt="Saif Ullah Profile Picture" width="150" style="border-radius:50%; border:2px solid #00FF00;"/>
+</p>
 
 - 🔭 I’m currently working on [Pytorch-CIFAR10-Classifier Project](https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code)  
 - 🌱 I’m currently learning **Advanced Reinforcement Learning, Deep Learning Frameworks, Full-Stack Development Tools**  
