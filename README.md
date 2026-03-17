@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&width=500&lines=Python+%7C+Deep+Learning" alt="Python & Deep Learning" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33C1FF&center=true&width=500&lines=Reinforcement+Learning+%7C+AI+Projects" alt="Reinforcement Learning & Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33C1FF&center=true&width=800&lines=Reinforcement+Learning+%7C+AI+Projects" alt="Reinforcement Learning & Projects" />
 </p>
 
 - 🔭 I’m currently working on [Pytorch-CIFAR10-Classifier Project](https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code)  
