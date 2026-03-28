@@ -220,7 +220,7 @@ class SaifUllah:
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" title="TensorFlow" />
         &nbsp;
-        <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" title="FastAPI" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI" />
       </div>
       <br/>
       <p align="center">
@@ -238,7 +238,7 @@ class SaifUllah:
         &nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python" />
         &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="36" title="NumPy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" title="NumPy" />
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" title="OpenCV" />
       </div>
@@ -260,11 +260,11 @@ class SaifUllah:
       <div align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python" />
         &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="36" title="NumPy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" title="NumPy" />
         &nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" title="Pandas" />
         &nbsp;
-        <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" width="36" title="Plotly / Visualization" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" title="Matplotlib" />
       </div>
       <br/>
       <p align="center">
