@@ -1,11 +1,16 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Saif%20Ullah&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=a0aec0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Saif%20Ullah&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=20&descColor=a0aec0" />
+
+<!-- Profile Avatar -->
+<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="130" height="130" alt="Saif Ullah" />
+
+<br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🤖+Building+Intelligent+%26+Scalable+Applications;🔥+PyTorch+%7C+Transformers+%7C+HuggingFace+%7C+FastAPI;⚡+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;🧠+Deep+Learning+%7C+Reinforcement+Learning+%7C+AI+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=🤖+Building+Intelligent+%26+Scalable+Applications;🔥+PyTorch+%7C+Transformers+%7C+HuggingFace+%7C+FastAPI;⚡+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;🧠+Deep+Learning+%7C+Reinforcement+Learning+%7C+AI+Research" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,36 +32,63 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="180" alt="Saif Ullah" />
+
+<br/><br/>
+
+**Saif Ullah**
+<br/>
+🤖 AI/ML Engineer · 💻 Full-Stack Dev
+<br/>
+📍 Pakistan 🇵🇰
+<br/>
+📧 ranasaifullahkhalid2@gmail.com
+
+</td>
+<td width="65%">
+
 ```python
 class SaifUllah:
     def __init__(self):
-        self.name         = "Saif Ullah"
-        self.role         = ["AI/ML Engineer", "Full-Stack Developer"]
-        self.location     = "Pakistan 🇵🇰"
-        self.email        = "ranasaifullahkhalid2@gmail.com"
-        self.focus        = "Building intelligent & scalable real-world applications"
+        self.name     = "Saif Ullah"
+        self.role     = ["AI/ML Engineer",
+                         "Full-Stack Developer"]
+        self.location = "Pakistan 🇵🇰"
 
     @property
     def current_work(self):
         return {
-            "AI Project"  : "Transformer-based model using 🤗 HuggingFace + FastAPI",
-            "DL Project"  : "PyTorch CIFAR-10 Image Classifier",
-            "RL Project"  : "SARSA Agent for Cliff Walking Environment",
+            "AI"  : "Transformers + HuggingFace + FastAPI",
+            "DL"  : "PyTorch CIFAR-10 Image Classifier",
+            "RL"  : "SARSA Cliff Walking Agent",
         }
 
     @property
     def stack(self):
         return {
-            "AI / ML"     : ["PyTorch", "TensorFlow", "HuggingFace", "OpenCV", "Pandas", "NumPy"],
-            "Backend"     : ["FastAPI", "Node.js", "Laravel", "Python", "Express.js"],
-            "Frontend"    : ["React.js", "Bootstrap", "Tailwind CSS", "HTML5", "CSS3"],
-            "Databases"   : ["MongoDB", "MySQL"],
-            "Languages"   : ["Python", "JavaScript", "C", "C++", "PHP"],
+            "AI/ML"    : ["PyTorch","TensorFlow",
+                          "HuggingFace","OpenCV"],
+            "Backend"  : ["FastAPI","Node.js",
+                          "Laravel","Express.js"],
+            "Frontend" : ["React.js","Bootstrap",
+                          "Tailwind CSS"],
+            "DB"       : ["MongoDB","MySQL"],
+            "Lang"     : ["Python","JS","C","C++","PHP"],
         }
 
     def motto(self):
-        return "Combining intelligent systems with practical software to solve real-world problems 🚀"
+        return ("Combining intelligent systems with "
+                "practical software to solve real-world "
+                "problems 🚀")
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,7 +104,7 @@ class SaifUllah:
     <td>Advanced Reinforcement Learning · LLM Fine-tuning · Scalable Full-Stack Architectures</td>
   </tr>
   <tr>
-    <td>👯 <strong>Open to Collaborate</strong></td>
+    <td>👯 <strong>Collaborate</strong></td>
     <td>AI/ML Projects · Full-Stack Apps · Open Source Contributions</td>
   </tr>
   <tr>
@@ -108,11 +140,12 @@ class SaifUllah:
 ### AI Domains
 
 <p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&color=0d1117&labelColor=00d4ff" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square&color=0d1117&labelColor=6c63ff" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-green?style=flat-square&color=0d1117&labelColor=00c853" />
-  <img src="https://img.shields.io/badge/NLP%20%26%20Transformers-orange?style=flat-square&color=0d1117&labelColor=ff6d00" />
-  <img src="https://img.shields.io/badge/CNNs%20%26%20RNNs-pink?style=flat-square&color=0d1117&labelColor=e91e63" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-00d4ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Computer%20Vision-6c63ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Reinforcement%20Learning-00c853?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-NLP%20%26%20Transformers-ff6d00?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-CNNs%20%26%20RNNs-e91e63?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-LLM%20Fine--tuning-8b5cf6?style=flat-square&labelColor=0d1117" />
 </p>
 
 </div>
@@ -177,47 +210,91 @@ class SaifUllah:
 
 <table>
   <tr>
-    <td width="50%">
+    <!-- Project 1: Transformer AI -->
+    <td width="50%" valign="top">
       <h3 align="center">🤗 Transformer AI Project</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" title="PyTorch" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" title="TensorFlow" />
+        &nbsp;
+        <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" title="FastAPI" />
+      </div>
+      <br/>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-Transformer-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square" />
       </p>
-      <p>Transformer-based NLP model fine-tuned with HuggingFace and deployed locally via FastAPI. Demonstrates end-to-end AI pipeline from training to inference API.</p>
+      <p align="center">Transformer-based NLP model fine-tuned with HuggingFace and deployed locally via FastAPI. End-to-end AI pipeline from training to live inference API.</p>
     </td>
-    <td width="50%">
+    <!-- Project 2: PyTorch CIFAR-10 -->
+    <td width="50%" valign="top">
       <h3 align="center">🖼️ PyTorch CIFAR-10 Classifier</h3>
+      <div align="center">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" title="PyTorch" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="36" title="NumPy" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" title="OpenCV" />
+      </div>
+      <br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/CNN-Deep%20Learning-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/CNN-Deep%20Learning-EE4C2C?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-From%20Scratch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <a href="https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>Convolutional Neural Network built from scratch in PyTorch to classify 10 categories from the CIFAR-10 dataset with optimized training pipelines.</p>
+      <p align="center">CNN built from scratch in PyTorch to classify 10 image categories from CIFAR-10. Includes optimized training loops, accuracy tracking, and model evaluation.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <!-- Project 3: SARSA RL -->
+    <td width="50%" valign="top">
       <h3 align="center">🧗 SARSA RL Agent</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" title="Python" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="36" title="NumPy" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" title="Pandas" />
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" width="36" title="Plotly / Visualization" />
+      </div>
+      <br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/Reinforcement%20Learning-00c853?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Reinforcement%20Learning-SARSA-00c853?style=flat-square" />
+        <img src="https://img.shields.io/badge/Env-CliffWalking-0d1117?style=flat-square" />
         <a href="https://github.com/saifullah857/SARSA-Reinforcement-Learning-Agent-for-Cliff-Walking-Environment">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>SARSA on-policy RL agent trained to navigate the Cliff Walking environment, comparing performance against Q-Learning with policy evaluation and visualization.</p>
+      <p align="center">On-policy SARSA RL agent trained to navigate the Cliff Walking environment. Benchmarked vs Q-Learning with full policy visualization and reward curve analysis.</p>
     </td>
-    <td width="50%">
+    <!-- Project 4: MERN + Laravel -->
+    <td width="50%" valign="top">
       <h3 align="center">🌐 Full-Stack MERN / Laravel Apps</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" title="React" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" title="Node.js" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" title="MongoDB" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="36" title="Laravel" />
+      </div>
+      <br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Laravel-PHP-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
-      <p>Full-stack web applications combining MERN stack and Laravel backends with responsive Bootstrap/Tailwind frontends — built for real-world use cases.</p>
+      <p align="center">Full-stack web apps combining MERN and Laravel backends with responsive Bootstrap/Tailwind frontends — designed for real-world production scenarios.</p>
     </td>
   </tr>
 </table>
@@ -267,8 +344,7 @@ class SaifUllah:
   </picture>
 </div>
 
-> **Note:** To enable the snake animation, add this GitHub Action to your profile repo:  
-> `.github/workflows/snake.yml` → [Setup Guide](https://github.com/Platane/snk)
+> **Note:** To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo → [Setup Guide](https://github.com/Platane/snk)
 
 ---
 
@@ -283,7 +359,7 @@ class SaifUllah:
 ├── ⏳ Generative AI (GANs, Diffusion Models)
 └── ⏳ MLOps & Model Deployment at Scale
 
-🌐 Full-Stack Path  
+🌐 Full-Stack Path
 ├── ✅ MERN Stack (MongoDB, Express, React, Node)
 ├── ✅ Laravel + PHP Backend
 ├── ✅ Bootstrap & Tailwind CSS
@@ -331,6 +407,10 @@ class SaifUllah:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="55" alt="Saif Ullah" />
+
+<br/>
 
 <i>"Combining intelligent systems with practical software to solve real-world problems."</i>
 
