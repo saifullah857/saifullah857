@@ -237,12 +237,12 @@ class SaifUllah:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -251,7 +251,7 @@ class SaifUllah:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=AAA,AA,A,B,C,UNKNOWN,SECRET" />
 </div>
 
 ---
@@ -274,7 +274,7 @@ class SaifUllah:
   </picture>
 </div>
 
-> ⚠️ Snake requires the `snake.yml` GitHub Action to run once. Go to **Actions tab → Generate Snake Animation → Run workflow**.
+
 
 ---
 
