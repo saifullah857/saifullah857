@@ -3,19 +3,17 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Saif%20Ullah&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=20&descColor=a0aec0" />
 
-<!-- Profile Avatar -->
-<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="130" height="130" alt="Saif Ullah" />
+<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="130" height="130" style="border-radius:50%" alt="Saif Ullah" />
 
 <br/>
 
-<!-- Typing Animation -->
+<!-- ✅ FIX 1: Typing SVG - multiline=false so it cycles properly -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=🤖+Building+Intelligent+%26+Scalable+Applications;🔥+PyTorch+%7C+Transformers+%7C+HuggingFace+%7C+FastAPI;⚡+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;🧠+Deep+Learning+%7C+Reinforcement+Learning+%7C+AI+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=🤖+Building+Intelligent+%26+Scalable+Applications;🔥+PyTorch+%7C+Transformers+%7C+HuggingFace+%7C+FastAPI;⚡+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;🧠+Deep+Learning+%7C+Reinforcement+Learning+%7C+AI+Research" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=saifullah857&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/saifullah857?tab=followers">
@@ -210,7 +208,6 @@ class SaifUllah:
 
 <table>
   <tr>
-    <!-- Project 1: Transformer AI -->
     <td width="50%" valign="top">
       <h3 align="center">🤗 Transformer AI Project</h3>
       <div align="center">
@@ -230,7 +227,6 @@ class SaifUllah:
       </p>
       <p align="center">Transformer-based NLP model fine-tuned with HuggingFace and deployed locally via FastAPI. End-to-end AI pipeline from training to live inference API.</p>
     </td>
-    <!-- Project 2: PyTorch CIFAR-10 -->
     <td width="50%" valign="top">
       <h3 align="center">🖼️ PyTorch CIFAR-10 Classifier</h3>
       <div align="center">
@@ -254,7 +250,6 @@ class SaifUllah:
     </td>
   </tr>
   <tr>
-    <!-- Project 3: SARSA RL -->
     <td width="50%" valign="top">
       <h3 align="center">🧗 SARSA RL Agent</h3>
       <div align="center">
@@ -263,8 +258,6 @@ class SaifUllah:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" title="NumPy" />
         &nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" title="Pandas" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="36" title="Matplotlib" />
       </div>
       <br/>
       <p align="center">
@@ -276,7 +269,6 @@ class SaifUllah:
       </p>
       <p align="center">On-policy SARSA RL agent trained to navigate the Cliff Walking environment. Benchmarked vs Q-Learning with full policy visualization and reward curve analysis.</p>
     </td>
-    <!-- Project 4: MERN + Laravel -->
     <td width="50%" valign="top">
       <h3 align="center">🌐 Full-Stack MERN / Laravel Apps</h3>
       <div align="center">
@@ -307,10 +299,13 @@ class SaifUllah:
 
 <div align="center">
 
+<!-- ✅ FIX 2: Stats - working URL -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0" />
 
-<br/>
+<!-- ✅ FIX 3: Streak stats - herokuapp is DEAD, use demolab instead -->
+<img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a0aec0&dates=a0aec0" />
+
+<br/><br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=8" />
 
@@ -320,8 +315,9 @@ class SaifUllah:
 
 ## 🏅 GitHub Trophies
 
+<!-- ✅ FIX 4: Trophies - added rank range so all trophies show -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -336,15 +332,17 @@ class SaifUllah:
 
 ## 🐍 Contribution Snake
 
+<!-- ✅ FIX 5: Snake SVG - generated by GitHub Action workflow (snake.yml) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg" />
+    <img alt="Snake animation"
+         src="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-> **Note:** To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo → [Setup Guide](https://github.com/Platane/snk)
 
 ---
 
