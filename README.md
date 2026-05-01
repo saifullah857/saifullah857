@@ -628,16 +628,20 @@ class SaifUllah:
 
 <div align="center">
 
-<!-- Stats card: added rank_icon=github and increased cache_seconds for reliability -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=a0aec0&rank_icon=github&cache_seconds=86400" />
-
-<!-- Streak stats: switched to streak-stats.demolab.com (most reliable public instance) -->
+<!-- Row 1: Stats card (github-profile-summary-cards — reliable alternative) + Streak -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullah857&theme=tokyonight" />
 <img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=a0aec0&dates=a0aec0" />
 
 <br/><br/>
 
-<!-- Top languages: added cache_seconds for reliability -->
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=a0aec0&langs_count=8&cache_seconds=86400" />
+<!-- Row 2: Top languages by repo + Top languages by commit -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifullah857&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifullah857&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- Row 3: Full profile details timeline -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah857&theme=tokyonight" />
 
 </div>
 
