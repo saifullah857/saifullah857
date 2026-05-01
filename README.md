@@ -666,11 +666,10 @@ class SaifUllah:
 ## 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg" />
-</picture>
+
+![snake animation dark](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake animation light](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg#gh-light-mode-only)
+
 </div>
 
 ---
