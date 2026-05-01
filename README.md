@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<!-- FIXED Typing SVG — uses Fira Code, a known-supported font -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=🤖+Building+Intelligent+%26+Scalable+Applications;⚡+PyTorch+%7C+HuggingFace+%7C+LangChain+%7C+FastAPI;🌐+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;🧠+Deep+Learning+%7C+RL+%7C+NLP+%7C+Computer+Vision;🚀+30%2B+Projects+%7C+Open+Source+Contributor" alt="Typing SVG" />
+<!-- Typing SVG — emojis percent-encoded for correct rendering -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=%F0%9F%A4%96+Building+Intelligent+%26+Scalable+Applications;%E2%9A%A1+PyTorch+%7C+HuggingFace+%7C+LangChain+%7C+FastAPI;%F0%9F%8C%90+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;%F0%9F%A7%A0+Deep+Learning+%7C+RL+%7C+NLP+%7C+Computer+Vision;%F0%9F%9A%80+30%2B+Projects+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -628,12 +628,16 @@ class SaifUllah:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=a0aec0&cache_seconds=1800" />
+<!-- Stats card: added rank_icon=github and increased cache_seconds for reliability -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=a0aec0&rank_icon=github&cache_seconds=86400" />
+
+<!-- Streak stats: switched to streak-stats.demolab.com (most reliable public instance) -->
 <img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=a0aec0&dates=a0aec0" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=a0aec0&langs_count=8&cache_seconds=1800" />
+<!-- Top languages: added cache_seconds for reliability -->
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=a0aec0&langs_count=8&cache_seconds=86400" />
 
 </div>
 
