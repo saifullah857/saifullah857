@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<!-- Typing SVG — emojis percent-encoded for correct rendering -->
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=%F0%9F%A4%96+Building+Intelligent+%26+Scalable+Applications;%E2%9A%A1+PyTorch+%7C+HuggingFace+%7C+LangChain+%7C+FastAPI;%F0%9F%8C%90+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;%F0%9F%A7%A0+Deep+Learning+%7C+RL+%7C+NLP+%7C+Computer+Vision;%F0%9F%9A%80+30%2B+Projects+%7C+Open+Source+Contributor" alt="Typing SVG" />
 
 <br/><br/>
@@ -66,21 +66,22 @@ class SaifUllah:
     @property
     def current_work(self):
         return {
-            "🤗 NLP"     : "T5 Fine-tuning → FastAPI Deployment",
-            "🖼️  CV"     : "AI Attendance (Face + Voice)",
-            "🎮 RL"      : "Flappy Bird trained with DQN",
-            "🌐 Web"     : "Ad-Generator Agent + ARIA Assistant",
+            "🏫 EdTech AI" : "EduFees AI — Agno + Groq LLaMA 3.3 + Gemini 2.0",
+            "🤗 NLP"       : "T5 Fine-tuning → FastAPI Deployment",
+            "🖼️  CV"       : "AI Attendance (Face + Voice)",
+            "🎮 RL"        : "Flappy Bird trained with DQN",
+            "🌐 Web"       : "Ad-Generator Agent + ARIA Assistant",
         }
 
     @property
     def stack(self):
         return {
             "AI/ML"    : ["PyTorch","TensorFlow","HuggingFace",
-                          "LangChain","OpenCV","Gemini","FAISS"],
+                          "LangChain","Agno","OpenCV","Gemini","FAISS"],
             "Backend"  : ["FastAPI","Flask","Node.js",
                           "Laravel","Express.js"],
             "Frontend" : ["React.js","Tailwind CSS","Bootstrap"],
-            "DB"       : ["MongoDB","MySQL","ChromaDB"],
+            "DB"       : ["MongoDB","MySQL","ChromaDB","Excel"],
             "Lang"     : ["Python","JS","C","C++","PHP"],
             "Tools"    : ["Git","Docker","Streamlit","Postman"],
         }
@@ -103,10 +104,10 @@ class SaifUllah:
 
 | | | |
 |:---:|:---|:---|
-| 🔭 | **Working On** | Transformer-based AI with HuggingFace + FastAPI + AI Agents |
+| 🔭 | **Working On** | EduFees AI · Transformer-based AI with HuggingFace + FastAPI + AI Agents |
 | 🌱 | **Learning** | Advanced RL · LLM Fine-tuning · RAG Pipelines · MLOps |
 | 👯 | **Collaborate** | AI/ML Projects · Full-Stack Apps · Open Source |
-| 💬 | **Ask Me About** | PyTorch · LangChain · React · Laravel · Deep Learning · RL |
+| 💬 | **Ask Me About** | PyTorch · LangChain · Agno · React · Laravel · Deep Learning · RL |
 | 🎯 | **2025 Goals** | 50+ Projects · OSS Contributions · AI Engineering Role |
 | ⚡ | **Fun Fact** | I debug neural nets & React apps at the same time — both work. |
 
@@ -124,6 +125,7 @@ class SaifUllah:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6c63ff?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -131,6 +133,7 @@ class SaifUllah:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20LLaMA-f97316?style=for-the-badge&logoColor=white)
 
 <br/>
 
@@ -214,7 +217,7 @@ class SaifUllah:
 | 🔴 Laravel / PHP | Advanced 80% | `████████████████░░░░` |
 | 🔥 PyTorch / Deep Learning | Advanced 80% | `████████████████░░░░` |
 | 🤗 HuggingFace / NLP | Advanced 75% | `███████████████░░░░░` |
-| 🔗 LangChain / RAG | Intermediate 68% | `█████████████░░░░░░░` |
+| 🔗 LangChain / Agno / RAG | Intermediate 70% | `██████████████░░░░░░` |
 | 🎮 Reinforcement Learning | Intermediate 65% | `█████████████░░░░░░░` |
 | 🐋 Docker / DevOps | Learning 50% | `██████████░░░░░░░░░░` |
 
@@ -233,6 +236,20 @@ class SaifUllah:
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center">🏫 EduFees AI</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-edufees--ai-181717?style=flat-square&logo=github)](https://github.com/saifullah857/edufees-ai)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6c63ff?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq%20LLaMA%203.3-f97316?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini%202.0-4285F4?style=flat-square&logo=google&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
+
+> AI-powered College & University Fees Management System. Built with Agno agent framework, Groq LLaMA 3.3, Gemini 2.0, Flask & Excel for smart fees tracking and intelligent Q&A.
+
+</td>
+<td width="50%" valign="top">
+
 <h3 align="center">🎯 Ad Generator Agent</h3>
 
 [![Repo](https://img.shields.io/badge/GitHub-Ad--Generator--Agent-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Add-Generator-Agent)
@@ -243,6 +260,8 @@ class SaifUllah:
 > An AI Agent that generates outstanding, targeted ads for any business. Built with an LLM backbone for creative copy generation.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">🤖 ARIA AI Assistant</h3>
@@ -255,8 +274,6 @@ class SaifUllah:
 > ARIA — Personal AI assistant built with Flask & Google Gemini 2.5 Flash. Ask questions, summarize emails, extract action items & deadlines.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">📄 Intelligent PDF Q&A</h3>
@@ -269,6 +286,8 @@ class SaifUllah:
 > PDF Q&A with LangChain, ChromaDB & Sentence Transformers. Loads, chunks, embeds & stores docs in a persistent vector DB for fast retrieval.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">📺 YouTube Analyzer Agent</h3>
@@ -276,10 +295,11 @@ class SaifUllah:
 [![Repo](https://img.shields.io/badge/GitHub-YouTube--Analyzer-181717?style=flat-square&logo=github)](https://github.com/saifullah857/youtube_analyzer-agent)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-f59e0b?style=flat-square)
-![Status](https://img.shields.io/badge/Updated-2w%20ago-blue?style=flat-square)
 
 > An intelligent agent that analyzes YouTube videos — transcription, summarization, and insight extraction using AI tools.
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -437,6 +457,17 @@ class SaifUllah:
 </td>
 <td width="33%" valign="top">
 
+<h3 align="center">📚 Supervised Learning Lab</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Supervised--Learning--Lab-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Supervised-Learning-Lab)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+> Hands-on supervised learning notebooks covering classification, regression, cross-validation, and model evaluation from scratch.
+
+</td>
+<td width="33%" valign="top">
+
 <h3 align="center">🤖 50 ML Projects</h3>
 
 [![Repo](https://img.shields.io/badge/GitHub-50--ML--Projects-181717?style=flat-square&logo=github)](https://github.com/saifullah857/50-Machine-Learning-Projects)
@@ -446,6 +477,8 @@ class SaifUllah:
 > A growing collection of 50 hands-on machine learning projects spanning classification, regression, NLP, CV, and more.
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 <h3 align="center">🔬 Applied ML Lab</h3>
@@ -456,6 +489,10 @@ class SaifUllah:
 
 > Applied machine learning lab covering end-to-end pipelines: preprocessing, feature engineering, model training, and evaluation.
 
+</td>
+<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 </td>
 </tr>
 </table>
@@ -519,6 +556,22 @@ class SaifUllah:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🕸️ Python Web Scraping & API Lab</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Web--Scraping--API--Lab-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Python-Web-Scraping-Api-Lab)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-4CAF50?style=flat-square)
+![REST](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+
+> Hands-on REST API integration & web scraping with requests, BeautifulSoup4, and pandas. Collects data from 4 public APIs and live websites, then cleans and exports it.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 </div>
 
@@ -551,6 +604,18 @@ class SaifUllah:
 </td>
 <td width="33%" valign="top">
 
+<h3 align="center">🗄️ MySQL Cheatsheet</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-MySQL--Cheatsheet-181717?style=flat-square&logo=github)](https://github.com/saifullah857/MySQL-Cheatsheet)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+> The ultimate MySQL quick-reference — queries, joins, CRUD, schema, users & more. Clean examples, pro tips, beginner-friendly.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
 <h3 align="center">📊 Streamlit Cheatsheet</h3>
 
 [![Repo](https://img.shields.io/badge/GitHub-Streamlit--Cheatsheet-181717?style=flat-square&logo=github)](https://github.com/saifullah857/streamlit-cheatsheet)
@@ -559,8 +624,6 @@ class SaifUllah:
 > The most comprehensive, developer-friendly Streamlit reference crafted for VS Code warriors. Stop Googling. Start building.
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 <h3 align="center">🤖 Gemini AI Learner</h3>
@@ -583,6 +646,8 @@ class SaifUllah:
 > Comprehensive visualization notebook — from basic plots to advanced charts using real-world datasets with Matplotlib and Seaborn.
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 <h3 align="center">🐼 Pandas Data Lab</h3>
@@ -592,6 +657,19 @@ class SaifUllah:
 
 > Pandas tutorial & practice lab — Series, DataFrame, cleaning, filtering, groupby using Titanic, Iris & Air Quality datasets.
 
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🎨 Bootstrap Practice Kit</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Bootstrap--Practice--Kit-181717?style=flat-square&logo=github)](https://github.com/saifullah857/bootstrap-practice-kit)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+> 34 hands-on Bootstrap 5.3 examples — Grid, Flexbox, Navbar, Cards, Carousel, Modals, Tables, Spinners & more.
+
+</td>
+<td width="33%" valign="top">
 </td>
 </tr>
 </table>
@@ -628,19 +706,16 @@ class SaifUllah:
 
 <div align="center">
 
-<!-- Row 1: Stats card (github-profile-summary-cards — reliable alternative) + Streak -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullah857&theme=tokyonight" />
 <img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=a0aec0&dates=a0aec0" />
 
 <br/><br/>
 
-<!-- Row 2: Top languages by repo + Top languages by commit -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifullah857&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifullah857&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- Row 3: Full profile details timeline -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah857&theme=tokyonight" />
 
 </div>
@@ -682,7 +757,8 @@ class SaifUllah:
 ├── ✅ Reinforcement Learning (SARSA, DQN)   ├── ✅ Laravel 12 + PHP Backend
 ├── ✅ HuggingFace & Transformers (T5, RNN)  ├── ✅ Bootstrap & Tailwind CSS
 ├── ✅ LangChain + RAG + ChromaDB            ├── ✅ Flask Web Apps + REST APIs
-├── ✅ AI Agents (Gemini, LangChain Tools)   ├── 🔄 Advanced React & State Management
+├── ✅ AI Agents (Agno, Gemini, LangChain)   ├── ✅ Python Web Scraping & REST APIs
+├── ✅ Supervised & Unsupervised Learning    ├── 🔄 Advanced React & State Management
 ├── 🔄 LLM Fine-tuning & PEFT/LoRA           ├── 🔄 JWT Auth & Role-Based Systems
 ├── ⏳ Generative AI (GANs, Diffusion)       ├── ⏳ Docker & CI/CD Pipelines
 └── ⏳ MLOps & Model Deployment at Scale     └── ⏳ Cloud Deployment (AWS / GCP)
@@ -708,6 +784,7 @@ class SaifUllah:
 🧩  I think in tensors, dream in gradients, and ship in FastAPI
 🌙  Best code gets written between 10PM and 2AM — peak flow state
 🐦  I trained an AI to play Flappy Bird. It beat my high score in 30 minutes.
+🏫  Built an AI fees management system with Groq LLaMA 3.3 & Gemini 2.0
 📚  Currently reading: "Deep Learning" by Goodfellow, Bengio & Courville
 🔭  Fascinated by emergent behavior in large language models
 ☕  Caffeine → Code → Commit → Repeat
