@@ -207,21 +207,24 @@ class SaifUllah:
 
 ## 📊 Skill Proficiency
 
+
+
 <div align="center">
 
 | Skill | Level | Bar |
 |:---|:---:|:---|
-| 🐍 Python | Expert 78% | `███████████████████░░ |
-| ⚛️ React.js | Expert 70% | `██████████████████░░` |
-| 🟢 Node.js / Express | Advanced 72% | `████████████████░░░░` |
-| 🔴 Laravel / PHP | Advanced 75% | `████████████████░░░░` |
-| 🔥 PyTorch / Deep Learning | Advanced 74% | `████████████████░░░░` |
-| 🤗 HuggingFace / NLP | Advanced 73% | `███████████████░░░░░` |
-| 🔗 LangChain / Agno / RAG | Intermediate 70% | `██████████████░░░░░░` |
-| 🎮 Reinforcement Learning | Intermediate 65% | `█████████████░░░░░░░` |
-| 🐋 Docker / DevOps | Learning 50% | `██████████░░░░░░░░░░` |
+| 🐍 Python | 75% | `███████████████░░░░░` |
+| ⚛️ React.js | 70% | `██████████████░░░░░░` |
+| 🟢 Node.js / Express | 65% | `█████████████░░░░░░░` |
+| 🔴 Laravel / PHP | 65% | `█████████████░░░░░░░` |
+| 🔥 PyTorch / Deep Learning | 65% | `█████████████░░░░░░░` |
+| 🤗 NLP / Transformers | 60% | `████████████░░░░░░░░` |
+| 🔗 LangChain / RAG | 60% | `███████████░░░░░░░░░` |
+| 🎮 Reinforcement Learning | 59% | `██████████░░░░░░░░░░` |
+| 🐋 Docker / DevOps | 40% | `████████░░░░░░░░░░░░` |
 
 </div>
+
 
 ---
 
