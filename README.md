@@ -211,12 +211,12 @@ class SaifUllah:
 
 | Skill | Level | Bar |
 |:---|:---:|:---|
-| 🐍 Python | Expert 95% | `████████████████████` |
-| ⚛️ React.js | Expert 90% | `██████████████████░░` |
-| 🟢 Node.js / Express | Advanced 82% | `████████████████░░░░` |
-| 🔴 Laravel / PHP | Advanced 80% | `████████████████░░░░` |
-| 🔥 PyTorch / Deep Learning | Advanced 80% | `████████████████░░░░` |
-| 🤗 HuggingFace / NLP | Advanced 75% | `███████████████░░░░░` |
+| 🐍 Python | Expert 78% | `███████████████████░░ |
+| ⚛️ React.js | Expert 70% | `██████████████████░░` |
+| 🟢 Node.js / Express | Advanced 72% | `████████████████░░░░` |
+| 🔴 Laravel / PHP | Advanced 75% | `████████████████░░░░` |
+| 🔥 PyTorch / Deep Learning | Advanced 74% | `████████████████░░░░` |
+| 🤗 HuggingFace / NLP | Advanced 73% | `███████████████░░░░░` |
 | 🔗 LangChain / Agno / RAG | Intermediate 70% | `██████████████░░░░░░` |
 | 🎮 Reinforcement Learning | Intermediate 65% | `█████████████░░░░░░░` |
 | 🐋 Docker / DevOps | Learning 50% | `██████████░░░░░░░░░░` |
