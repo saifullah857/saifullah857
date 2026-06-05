@@ -706,8 +706,36 @@ class SaifUllah:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" />
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📈 Activity
+| Metric | Value |
+|:---|:---:|
+| ⭐ Total Stars Earned | 5+ |
+| 🔥 Commits (2026) | 233+ |
+| 📁 Public Repositories | 36+ |
+| 🌐 Contributed To | 36 projects |
+| 🔀 Pull Requests | Active |
+| 📝 Issues Opened | Active |
+
+</td>
+<td width="50%" align="center">
+
+### 🗣️ Top Languages
+| Language | Usage |
+|:---|:---:|
+| 🐍 Python | ████████ Primary |
+| 📓 Jupyter Notebook | ███████ Heavy |
+| 🌐 HTML / CSS | █████ Moderate |
+| ⚡ JavaScript | █████ Moderate |
+| 🐘 PHP | ████ Regular |
+| ➕ C / C++ | ███ Learning |
+
+</td>
+</tr>
+</table>
 
 </div>
 
