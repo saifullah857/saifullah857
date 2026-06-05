@@ -47,7 +47,7 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saifullah857)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/saifullah857)
 
@@ -207,8 +207,6 @@ class SaifUllah:
 
 ## 📊 Skill Proficiency
 
-
-
 <div align="center">
 
 | Skill | Level | Bar |
@@ -224,7 +222,6 @@ class SaifUllah:
 | 🐋 Docker / DevOps | 40% | `████████░░░░░░░░░░░░` |
 
 </div>
-
 
 ---
 
@@ -699,7 +696,7 @@ class SaifUllah:
 <br/>
 
 [![Hire Me](https://img.shields.io/badge/📧%20Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
 
 </div>
 
@@ -803,10 +800,9 @@ class SaifUllah:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah857)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/saifullah857)
-[![TopCoder](https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/55260)
 
 </div>
 
@@ -818,7 +814,7 @@ class SaifUllah:
 
 *If my projects helped you, consider supporting!*
 
-<a href="https://www.buymeacoffee.com/b">
+<a href="https://www.buymeacoffee.com/saifullah857">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
 </a>
 
