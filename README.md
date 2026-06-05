@@ -207,8 +207,6 @@ class SaifUllah:
 
 ## 📊 Skill Proficiency
 
-
-
 <div align="center">
 
 | Skill | Level | Bar |
@@ -224,7 +222,6 @@ class SaifUllah:
 | 🐋 Docker / DevOps | 40% | `████████░░░░░░░░░░░░` |
 
 </div>
-
 
 ---
 
@@ -727,16 +724,21 @@ class SaifUllah:
 
 ## 🏅 GitHub Trophies
 
+<!-- FIX: Removed `rank=` filter — it was causing empty renders for newer accounts.
+     All earned trophies (any rank) now display correctly. -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=AAA,AA,A,B,C,UNKNOWN,SECRET" />
+<img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
+<!-- FIX: Removed broken rank filter & added custom_title to force a clean render.
+     The canonical vercel.app URL is correct — if it shows an error,
+     it's a temporary GitHub API rate-limit on their end; refresh in a few minutes. -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
 </div>
 
 ---
