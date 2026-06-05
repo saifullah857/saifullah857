@@ -706,26 +706,27 @@ class SaifUllah:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifullah857&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifullah857&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah857&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+| 🏆 Achievement | 📊 Count |
+|:---|:---:|
+| 💻 Total Commits (2026) | 233+ |
+| 📁 Repositories | 36+ |
+| 🌐 Contributed To | 36 projects |
+| 🚀 Projects Shipped | 30+ |
+| 🤖 AI/ML Projects | 15+ |
+| 🌐 Full-Stack Apps | 10+ |
+| 📚 Learning Resources | 8+ |
+
 </div>
 
 ---
@@ -733,7 +734,7 @@ class SaifUllah:
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
 </div>
 
 ---
