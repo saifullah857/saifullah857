@@ -759,20 +759,38 @@ class SaifUllah:
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
+
+| Month | Commits | Focus Area |
+|:---|:---:|:---|
+| 🟩 Jan 2026 | Active | Project setup & repo initialization |
+| 🟩 Feb 2026 | Active | AI Agents · LangChain · RAG Systems |
+| 🟩 Mar 2026 | Active | Deep Learning · PyTorch · NLP |
+| 🟩 Apr 2026 | Active | Full-Stack · Laravel · MERN |
+| 🟩 May 2026 | Active | EduFees AI · ARIA · Ad Generator |
+| 🟩 Jun 2026 | **233+** | Reinforcement Learning · RL Agents |
+
+> 🔥 **233+ commits in 2026** across 36+ repositories — consistently shipping AI/ML and Full-Stack projects.
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Coding Streak
 
 <div align="center">
 
-![snake animation dark](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg#gh-dark-mode-only)
-![snake animation light](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg#gh-light-mode-only)
+```
+Jan ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Feb ░░▓▓▓░░▓▓▓▓░░░▓▓▓░░▓░░░░▓▓▓░░▓▓░░░▓▓▓░░░░░░░░░░░░░░
+Mar ▓▓▓▓▓▓░▓▓▓▓▓░▓▓▓▓▓░▓▓▓▓░▓▓▓▓▓░▓▓▓▓░▓▓▓▓▓░░░░░░░░░░░░
+Apr ░▓▓▓░░▓▓▓▓░▓▓▓░░▓▓▓░░░▓▓▓░░▓▓▓░░░▓▓░░░▓▓▓░░░░░░░░░░░
+May ▓▓▓▓▓▓▓▓▓░▓▓▓▓▓▓▓░▓▓▓▓▓▓░▓▓▓▓▓▓▓░▓▓▓▓▓▓░░░░░░░░░░░░░
+Jun ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░
+    ▓ = commit day   ░ = rest day    🔥 233+ commits in 2026
+```
 
 </div>
 
