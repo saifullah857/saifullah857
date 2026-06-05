@@ -47,7 +47,7 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saifullah857)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/saifullah857)
 
@@ -207,6 +207,8 @@ class SaifUllah:
 
 ## 📊 Skill Proficiency
 
+
+
 <div align="center">
 
 | Skill | Level | Bar |
@@ -222,6 +224,7 @@ class SaifUllah:
 | 🐋 Docker / DevOps | 40% | `████████░░░░░░░░░░░░` |
 
 </div>
+
 
 ---
 
@@ -696,7 +699,7 @@ class SaifUllah:
 <br/>
 
 [![Hire Me](https://img.shields.io/badge/📧%20Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
 
 </div>
 
@@ -706,91 +709,44 @@ class SaifUllah:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullah857&theme=tokyonight" />
+<img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=a0aec0&dates=a0aec0" />
 
-### 📈 Activity
-| Metric | Value |
-|:---|:---:|
-| ⭐ Total Stars Earned | 5+ |
-| 🔥 Commits (2026) | 233+ |
-| 📁 Public Repositories | 36+ |
-| 🌐 Contributed To | 36 projects |
-| 🔀 Pull Requests | Active |
-| 📝 Issues Opened | Active |
+<br/><br/>
 
-</td>
-<td width="50%" align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifullah857&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifullah857&theme=tokyonight" />
 
-### 🗣️ Top Languages
-| Language | Usage |
-|:---|:---:|
-| 🐍 Python | ████████ Primary |
-| 📓 Jupyter Notebook | ███████ Heavy |
-| 🌐 HTML / CSS | █████ Moderate |
-| ⚡ JavaScript | █████ Moderate |
-| 🐘 PHP | ████ Regular |
-| ➕ C / C++ | ███ Learning |
+<br/><br/>
 
-</td>
-</tr>
-</table>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah857&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## 🏅 GitHub Trophies
 
 <div align="center">
-
-| 🏆 Achievement | 📊 Count |
-|:---|:---:|
-| 💻 Total Commits (2026) | 233+ |
-| 📁 Repositories | 36+ |
-| 🌐 Contributed To | 36 projects |
-| 🚀 Projects Shipped | 30+ |
-| 🤖 AI/ML Projects | 15+ |
-| 🌐 Full-Stack Apps | 10+ |
-| 📚 Learning Resources | 8+ |
-
+<img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=AAA,AA,A,B,C,UNKNOWN,SECRET" />
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-
-| Month | Commits | Focus Area |
-|:---|:---:|:---|
-| 🟩 Jan 2026 | Active | Project setup & repo initialization |
-| 🟩 Feb 2026 | Active | AI Agents · LangChain · RAG Systems |
-| 🟩 Mar 2026 | Active | Deep Learning · PyTorch · NLP |
-| 🟩 Apr 2026 | Active | Full-Stack · Laravel · MERN |
-| 🟩 May 2026 | Active | EduFees AI · ARIA · Ad Generator |
-| 🟩 Jun 2026 | **233+** | Reinforcement Learning · RL Agents |
-
-> 🔥 **233+ commits in 2026** across 36+ repositories — consistently shipping AI/ML and Full-Stack projects.
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🐍 Coding Streak
+## 🐍 Contribution Snake
 
 <div align="center">
 
-```
-Jan ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-Feb ░░▓▓▓░░▓▓▓▓░░░▓▓▓░░▓░░░░▓▓▓░░▓▓░░░▓▓▓░░░░░░░░░░░░░░
-Mar ▓▓▓▓▓▓░▓▓▓▓▓░▓▓▓▓▓░▓▓▓▓░▓▓▓▓▓░▓▓▓▓░▓▓▓▓▓░░░░░░░░░░░░
-Apr ░▓▓▓░░▓▓▓▓░▓▓▓░░▓▓▓░░░▓▓▓░░▓▓▓░░░▓▓░░░▓▓▓░░░░░░░░░░░
-May ▓▓▓▓▓▓▓▓▓░▓▓▓▓▓▓▓░▓▓▓▓▓▓░▓▓▓▓▓▓▓░▓▓▓▓▓▓░░░░░░░░░░░░░
-Jun ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░
-    ▓ = commit day   ░ = rest day    🔥 233+ commits in 2026
-```
+![snake animation dark](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake animation light](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg#gh-light-mode-only)
 
 </div>
 
@@ -847,9 +803,10 @@ Jun ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah857)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/saifullah857)
+[![TopCoder](https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/55260)
 
 </div>
 
@@ -861,7 +818,7 @@ Jun ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
 *If my projects helped you, consider supporting!*
 
-<a href="https://www.buymeacoffee.com/saifullah857">
+<a href="https://www.buymeacoffee.com/b">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
 </a>
 
