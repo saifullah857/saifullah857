@@ -66,6 +66,7 @@ class SaifUllah:
     @property
     def current_work(self):
         return {
+            "💊 Health AI" : "Medical RAG Chatbot — LangChain + ChromaDB + Groq (qwen3-32b)",
             "🏫 EdTech AI" : "EduFees AI — Agno + Groq LLaMA 3.3 + Gemini 2.0",
             "🤗 NLP"       : "T5 Fine-tuning → FastAPI Deployment",
             "🖼️  CV"       : "AI Attendance (Face + Voice)",
@@ -77,7 +78,8 @@ class SaifUllah:
     def stack(self):
         return {
             "AI/ML"    : ["PyTorch","TensorFlow","HuggingFace",
-                          "LangChain","Agno","OpenCV","Gemini","FAISS"],
+                          "LangChain","LangGraph","Agno","OpenCV",
+                          "Gemini","FAISS","ChromaDB"],
             "Backend"  : ["FastAPI","Flask","Node.js",
                           "Laravel","Express.js"],
             "Frontend" : ["React.js","Tailwind CSS","Bootstrap"],
@@ -104,8 +106,8 @@ class SaifUllah:
 
 | | | |
 |:---:|:---|:---|
-| 🔭 | **Working On** | EduFees AI · Transformer-based AI with HuggingFace + FastAPI + AI Agents |
-| 🌱 | **Learning** | Advanced RL · LLM Fine-tuning · RAG Pipelines · MLOps |
+| 🔭 | **Working On** | Medical RAG Chatbot · EduFees AI · Transformer-based AI with HuggingFace + FastAPI + AI Agents |
+| 🌱 | **Learning** | Advanced RL · LLM Fine-tuning · Agentic Systems (LangGraph, Phidata) · MLOps |
 | 👯 | **Collaborate** | AI/ML Projects · Full-Stack Apps · Open Source |
 | 💬 | **Ask Me About** | PyTorch · LangChain · Agno · React · Laravel · Deep Learning · RL |
 | 🎯 | **2025 Goals** | 50+ Projects · OSS Contributions · AI Engineering Role |
@@ -125,7 +127,9 @@ class SaifUllah:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-6c63ff?style=for-the-badge&logoColor=white)
+![Phidata](https://img.shields.io/badge/Phidata-8b5cf6?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -147,6 +151,7 @@ class SaifUllah:
 ![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-8b5cf6?style=flat-square&labelColor=0d1117)
 ![RAG Systems](https://img.shields.io/badge/RAG%20%26%20Vector%20DB-10b981?style=flat-square&labelColor=0d1117)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-f59e0b?style=flat-square&labelColor=0d1117)
+![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-f43f5e?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -217,7 +222,7 @@ class SaifUllah:
 | 🔴 Laravel / PHP | 65% | `█████████████░░░░░░░` |
 | 🔥 PyTorch / Deep Learning | 65% | `█████████████░░░░░░░` |
 | 🤗 NLP / Transformers | 60% | `████████████░░░░░░░░` |
-| 🔗 LangChain / RAG | 60% | `███████████░░░░░░░░░` |
+| 🔗 LangChain / RAG | 62% | `████████████░░░░░░░░` |
 | 🎮 Reinforcement Learning | 59% | `██████████░░░░░░░░░░` |
 | 🐋 Docker / DevOps | 40% | `████████░░░░░░░░░░░░` |
 
@@ -233,6 +238,33 @@ class SaifUllah:
 
 <div align="center">
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💊 Medical RAG Chatbot</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-medical--rag--chatbot-181717?style=flat-square&logo=github)](https://github.com/saifullah857/medical-rag-chatbot)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq%20qwen3--32b-f97316?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
+
+> AI-powered medical Q&A assistant using Retrieval-Augmented Generation. Built with LangChain, ChromaDB, and Groq (qwen3-32b), grounded in *The Gale Encyclopedia of Medicine*.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📑 Chat With Docs</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-chat--with--docs-181717?style=flat-square&logo=github)](https://github.com/saifullah857/chat-with-docs)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-f97316?style=flat-square)
+
+> Retrieval-Augmented Generation chatbot that lets you ask questions across your own documents using LangChain, FAISS, and Groq.
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -533,14 +565,29 @@ class SaifUllah:
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center">⚡ Express.js Full-Stack Practice</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-ExpressJS--Full--Stack--Practice-181717?style=flat-square&logo=github)](https://github.com/saifullah857/ExpressJS-Full-Stack-Practice-Projects)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+![Auth](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square)
+
+> A complete hands-on collection of Express.js projects — from fundamentals to full-stack applications with authentication, REST APIs, and MongoDB integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <h3 align="center">🎓 Saifi Coder E-Learning</h3>
 
 [![Repo](https://img.shields.io/badge/GitHub-E--Learning--Platform-181717?style=flat-square&logo=github)](https://github.com/saifullah857/-Saifi-Coder-E-Learning-Platform)
+![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ⭐ 1 star
 
-> A full-featured e-learning platform for coders, with course listings, lessons, and a clean responsive design.
+> A full-featured, role-based E-Learning platform built with Laravel 12 — students enroll in courses, instructors manage content, and admins control everything.
 
 </td>
 <td width="50%" valign="top">
@@ -581,6 +628,42 @@ class SaifUllah:
 
 <div align="center">
 <table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🚀 GenAI & Agentic Mastery</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-GenAI--Agentic--Mastery-181717?style=flat-square&logo=github)](https://github.com/saifullah857/GenAI-Agentic-Mastery)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-10b981?style=flat-square)
+
+> A complete Generative AI & Agentic Systems course — LangChain, LangGraph, RAG, Deep Agents, Guardrails, LLM Evaluation, and LLM Gateways.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 Phidata Agent MasterGuide</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-phidata--agent--masterguide-181717?style=flat-square&logo=github)](https://github.com/saifullah857/phidata-agent-masterguide)
+![Phidata](https://img.shields.io/badge/Phidata-8b5cf6?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> A complete Phidata AI Agent development guide — from beginner to production. Build agents, RAG apps, multi-agent teams, and voice/vision agents, then deploy with FastAPI + Docker.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🐍 Python with Saif</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-python--with--saif-181717?style=flat-square&logo=github)](https://github.com/saifullah857/python-with-saif)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+> Daily Python lectures, notes, slides & assignments — from beginner to advanced. AI chatbot powered by course notes coming soon!
+
+</td>
+</tr>
 <tr>
 <td width="33%" valign="top">
 
@@ -762,7 +845,8 @@ class SaifUllah:
 ├── ✅ Reinforcement Learning (SARSA, DQN)   ├── ✅ Laravel 12 + PHP Backend
 ├── ✅ HuggingFace & Transformers (T5, RNN)  ├── ✅ Bootstrap & Tailwind CSS
 ├── ✅ LangChain + RAG + ChromaDB            ├── ✅ Flask Web Apps + REST APIs
-├── ✅ AI Agents (Agno, Gemini, LangChain)   ├── ✅ Python Web Scraping & REST APIs
+├── ✅ AI Agents (Agno, Gemini, LangChain)   ├── ✅ Express.js Full-Stack Projects
+├── ✅ Agentic Systems (LangGraph, Phidata)  ├── ✅ Python Web Scraping & REST APIs
 ├── ✅ Supervised & Unsupervised Learning    ├── 🔄 Advanced React & State Management
 ├── 🔄 LLM Fine-tuning & PEFT/LoRA           ├── 🔄 JWT Auth & Role-Based Systems
 ├── ⏳ Generative AI (GANs, Diffusion)       ├── ⏳ Docker & CI/CD Pipelines
@@ -789,6 +873,7 @@ class SaifUllah:
 🧩  I think in tensors, dream in gradients, and ship in FastAPI
 🌙  Best code gets written between 10PM and 2AM — peak flow state
 🐦  I trained an AI to play Flappy Bird. It beat my high score in 30 minutes.
+💊  Built a medical RAG chatbot grounded in The Gale Encyclopedia of Medicine
 🏫  Built an AI fees management system with Groq LLaMA 3.3 & Gemini 2.0
 📚  Currently reading: "Deep Learning" by Goodfellow, Bengio & Courville
 🔭  Fascinated by emergent behavior in large language models
