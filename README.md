@@ -47,9 +47,8 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saifullah857)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/saifullah857)
 
 </td>
 <td width="63%">
@@ -779,7 +778,7 @@ class SaifUllah:
 <br/>
 
 [![Hire Me](https://img.shields.io/badge/📧%20Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
 
 </div>
 
@@ -801,16 +800,6 @@ class SaifUllah:
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah857&theme=tokyonight" />
 
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<!-- FIX: Removed `rank=` filter — it was causing empty renders for newer accounts.
-     All earned trophies (any rank) now display correctly. -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
@@ -855,59 +844,13 @@ class SaifUllah:
 
 ---
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## ⚡ Fun Facts
-
-<div align="center">
-
-```
-🧩  I think in tensors, dream in gradients, and ship in FastAPI
-🌙  Best code gets written between 10PM and 2AM — peak flow state
-🐦  I trained an AI to play Flappy Bird. It beat my high score in 30 minutes.
-💊  Built a medical RAG chatbot grounded in The Gale Encyclopedia of Medicine
-🏫  Built an AI fees management system with Groq LLaMA 3.3 & Gemini 2.0
-📚  Currently reading: "Deep Learning" by Goodfellow, Bengio & Courville
-🔭  Fascinated by emergent behavior in large language models
-☕  Caffeine → Code → Commit → Repeat
-🌍  Goal: Build AI that improves lives in developing nations
-```
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifullah857/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah857)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/saifullah857)
-[![TopCoder](https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/55260)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-*If my projects helped you, consider supporting!*
-
-<a href="https://www.buymeacoffee.com/b">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-</a>
 
 </div>
 
