@@ -1,0 +1,22 @@
+SAIF GITHUB PROFILE — INSTALLATION
+
+1. Download and extract saif-github-ultimate.zip.
+2. Open https://github.com/saifullah857/saifullah857
+3. Replace README.md with the provided README.md.
+4. Upload the assets/ folder (keep both SVG filenames and folder path unchanged).
+5. Upload .github/workflows/snake.yml to the same path in your repository.
+6. Commit changes to the repository's default branch (usually main).
+7. Open repository Settings > Actions > General. Under Workflow permissions,
+   allow read and write permissions if the workflow is blocked from publishing.
+8. Open Actions > Generate contribution snake > Run workflow.
+9. Confirm the workflow succeeds and creates/updates the output branch.
+10. Refresh your profile. External stat cards may take time to load or can be
+    temporarily unavailable because they use third-party services.
+
+NOTES
+- This bundle does not change your GitHub repository automatically; you upload
+  and commit the files yourself.
+- The README uses project URLs already present in your current profile README.
+- Review the project descriptions and remove any that no longer match the repo.
+- The typing effect and stats cards are third-party hosted images; the custom
+  neon banner and divider are stored in your own repository.

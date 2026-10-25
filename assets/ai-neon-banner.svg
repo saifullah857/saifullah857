@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Saif Ullah — AI/ML Engineer</title>
+<desc id="desc">Animated dark futuristic banner with cyan and magenta neon details.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#070B14"/>
+    <stop offset="55%" stop-color="#10172A"/>
+    <stop offset="100%" stop-color="#071D29"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#54F2FF"/>
+    <stop offset="55%" stop-color="#8A7DFF"/>
+    <stop offset="100%" stop-color="#FF4FD8"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#54F2FF" stroke-opacity=".12" stroke-width="1"/>
+  </pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+<g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".8" filter="url(#glow)">
+  <path d="M0 278H220L255 243H390" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M1200 80H1010L975 115H890" stroke-dasharray="7 9">
+    <animate attributeName="stroke-dashoffset" from="0" to="64" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="1035" cy="255" r="42" opacity=".55">
+    <animate attributeName="r" values="36;48;36" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.8;.25" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="165" cy="95" r="25" opacity=".5">
+    <animate attributeName="r" values="20;30;20" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g fill="#54F2FF" opacity=".8">
+  <circle cx="930" cy="70" r="2"/><circle cx="958" cy="70" r="2"/><circle cx="986" cy="70" r="2"/>
+  <circle cx="220" cy="300" r="2"/><circle cx="248" cy="300" r="2"/><circle cx="276" cy="300" r="2"/>
+</g>
+<text x="600" y="133" text-anchor="middle" fill="#8B9BB4" font-family="monospace" font-size="15" letter-spacing="6">HELLO, WORLD — I'M</text>
+<text x="600" y="198" text-anchor="middle" fill="#F2F7FF" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="58">SAIF ULLAH</text>
+<text x="600" y="241" text-anchor="middle" fill="url(#neon)" font-family="monospace" font-size="22" letter-spacing="2">AI / ML ENGINEER  ·  LLMs  ·  RAG</text>
+<path d="M350 270H850" stroke="url(#neon)" stroke-width="2" opacity=".9" filter="url(#glow)">
+  <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
+</path>
+<text x="600" y="309" text-anchor="middle" fill="#A8B8CC" font-family="monospace" font-size="14">BUILDING INTELLIGENT SYSTEMS THAT SOLVE REAL PROBLEMS</text>
+</svg>
