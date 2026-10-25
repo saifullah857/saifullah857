@@ -1,184 +1,873 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,24&height=280&section=header&text=Saif%20Ullah&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=63&descSize=21&descColor=c9d1d9" />
+
 <div align="center">
 
-<img src="./assets/ai-neon-banner.svg" alt="Saif Ullah — AI/ML Engineer" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=54F2FF&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer+%7C+LLMs+%7C+RAG;Building+useful+AI-powered+products;Exploring+LLM+evaluation+and+reliability;Python+%7C+FastAPI+%7C+LangChain+%7C+Agno" alt="Animated introduction"/>
+<!-- Profile Avatar -->
+<a href="https://github.com/saifullah857">
+<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="145" style="border-radius:50%" alt="Saif Ullah" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/saifullah857"><img src="https://komarev.com/ghpvc/?username=saifullah857&style=flat-square&color=00d9ff&label=PROFILE+VIEWS" alt="Profile views"/></a>
-<a href="https://github.com/saifullah857?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-101827?style=flat-square&logo=github&logoColor=54f2ff" alt="Explore projects"/></a>
-<a href="https://www.linkedin.com/in/saif-ullah-khalid-412221379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-101827?style=flat-square&logo=linkedin&logoColor=54f2ff" alt="LinkedIn"/></a>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=%F0%9F%A4%96+Building+Intelligent+%26+Scalable+Applications;%E2%9A%A1+PyTorch+%7C+HuggingFace+%7C+LangChain+%7C+FastAPI;%F0%9F%8C%90+MERN+Stack+%7C+Laravel+%7C+Full-Stack+Developer;%F0%9F%A7%A0+Deep+Learning+%7C+RL+%7C+NLP+%7C+Computer+Vision;%F0%9F%9A%80+30%2B+Projects+%7C+Open+Source+Contributor" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Badges Row -->
+[![Profile Views](https://komarev.com/ghpvc/?username=saifullah857&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/saifullah857)
+[![Followers](https://img.shields.io/github/followers/saifullah857?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117)](https://github.com/saifullah857?tab=followers)
+[![Stars](https://img.shields.io/github/stars/saifullah857?label=Total+Stars&style=for-the-badge&color=f0c040&labelColor=0d1117)](https://github.com/saifullah857)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-brightgreen?style=for-the-badge)](mailto:ranasaifullahkhalid2@gmail.com)
 
 </div>
 
 ---
 
-## `whoami`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-I'm **Saif Ullah**, a Computer Science graduate focused on building practical AI applications. I'm especially interested in LLM-powered products, retrieval-augmented generation, AI agents, and making AI responses more reliable.
+## 🧠 About Me
+
+<table>
+<tr>
+<td width="37%" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="195" style="border-radius:14px" alt="Saif Ullah" />
+
+<br/><br/>
+
+**Saif Ullah**
+<br/>
+🤖 AI/ML Engineer · 💻 Full-Stack Dev
+<br/>
+📍 Pakistan 🇵🇰
+<br/>
+📧 ranasaifullahkhalid2@gmail.com
+
+<br/><br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saifullah857)
+
+</td>
+<td width="63%">
 
 ```python
-profile = {
-    "focus": ["AI/ML", "Generative AI", "LLMs", "RAG", "AI Agents"],
-    "build_with": ["Python", "FastAPI", "Flask", "LangChain", "Agno"],
-    "currently_exploring": [
-        "RAG evaluation",
-        "LLM security and guardrails",
-        "Hallucination reduction",
-        "Agentic workflows",
-    ],
-    "goal": "Build useful AI products that solve real problems",
-}
+class SaifUllah:
+    def __init__(self):
+        self.name     = "Saif Ullah"
+        self.role     = ["AI/ML Engineer",
+                         "Data Scientist",
+                         "Full-Stack Developer"]
+        self.location = "Pakistan 🇵🇰"
+
+    @property
+    def current_work(self):
+        return {
+            "💊 Health AI" : "Medical RAG Chatbot — LangChain + ChromaDB + Groq (qwen3-32b)",
+            "🏫 EdTech AI" : "EduFees AI — Agno + Groq LLaMA 3.3 + Gemini 2.0",
+            "🤗 NLP"       : "T5 Fine-tuning → FastAPI Deployment",
+            "🖼️  CV"       : "AI Attendance (Face + Voice)",
+            "🎮 RL"        : "Flappy Bird trained with DQN",
+            "🌐 Web"       : "Ad-Generator Agent + ARIA Assistant",
+        }
+
+    @property
+    def stack(self):
+        return {
+            "AI/ML"    : ["PyTorch","TensorFlow","HuggingFace",
+                          "LangChain","LangGraph","Agno","OpenCV",
+                          "Gemini","FAISS","ChromaDB"],
+            "Backend"  : ["FastAPI","Flask","Node.js",
+                          "Laravel","Express.js"],
+            "Frontend" : ["React.js","Tailwind CSS","Bootstrap"],
+            "DB"       : ["MongoDB","MySQL","ChromaDB","Excel"],
+            "Lang"     : ["Python","JS","C","C++","PHP"],
+            "Tools"    : ["Git","Docker","Streamlit","Postman"],
+        }
+
+    def motto(self):
+        return "Build smart. Ship fast. Scale gracefully. 🚀"
 ```
 
-## `01 / selected_builds`
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+---
+
+## ⚡ What I'm Up To
+
+<div align="center">
+
+| | | |
+|:---:|:---|:---|
+| 🔭 | **Working On** | Medical RAG Chatbot · EduFees AI · Transformer-based AI with HuggingFace + FastAPI + AI Agents |
+| 🌱 | **Learning** | Advanced RL · LLM Fine-tuning · Agentic Systems (LangGraph, Phidata) · MLOps |
+| 👯 | **Collaborate** | AI/ML Projects · Full-Stack Apps · Open Source |
+| 💬 | **Ask Me About** | PyTorch · LangChain · Agno · React · Laravel · Deep Learning · RL |
+| 🎯 | **2025 Goals** | 50+ Projects · OSS Contributions · AI Engineering Role |
+| ⚡ | **Fun Fact** | I debug neural nets & React apps at the same time — both work. |
+
+</div>
+
+---
+
+## 🤖 AI / ML Skills
+
+<div align="center">
+
+**Frameworks & Libraries**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6c63ff?style=for-the-badge&logoColor=white)
+![Phidata](https://img.shields.io/badge/Phidata-8b5cf6?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20LLaMA-f97316?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**Domains**
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00d4ff?style=flat-square&labelColor=0d1117)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6c63ff?style=flat-square&labelColor=0d1117)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00c853?style=flat-square&labelColor=0d1117)
+![NLP & Transformers](https://img.shields.io/badge/NLP%20%26%20Transformers-ff6d00?style=flat-square&labelColor=0d1117)
+![CNNs & RNNs](https://img.shields.io/badge/CNNs%20%26%20RNNs-e91e63?style=flat-square&labelColor=0d1117)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-8b5cf6?style=flat-square&labelColor=0d1117)
+![RAG Systems](https://img.shields.io/badge/RAG%20%26%20Vector%20DB-10b981?style=flat-square&labelColor=0d1117)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-f59e0b?style=flat-square&labelColor=0d1117)
+![Agentic Systems](https://img.shields.io/badge/Agentic%20Systems-f43f5e?style=flat-square&labelColor=0d1117)
+
+</div>
+
+---
+
+## 🌐 Full-Stack Skills
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<br/>
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Skill Proficiency
+
+<div align="center">
+
+| Skill | Level | Bar |
+|:---|:---:|:---|
+| 🐍 Python | 75% | `███████████████░░░░░` |
+| ⚛️ React.js | 70% | `██████████████░░░░░░` |
+| 🟢 Node.js / Express | 65% | `█████████████░░░░░░░` |
+| 🔴 Laravel / PHP | 65% | `█████████████░░░░░░░` |
+| 🔥 PyTorch / Deep Learning | 65% | `█████████████░░░░░░░` |
+| 🤗 NLP / Transformers | 60% | `████████████░░░░░░░░` |
+| 🔗 LangChain / RAG | 62% | `████████████░░░░░░░░` |
+| 🎮 Reinforcement Learning | 59% | `██████████░░░░░░░░░░` |
+| 🐋 Docker / DevOps | 40% | `████████░░░░░░░░░░░░` |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=3&section=header" width="100%"/>
+
+### 🤖 AI Agents & LLM Applications
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Medical RAG Chatbot
+<h3 align="center">💊 Medical RAG Chatbot</h3>
 
-A medical question-answering project built around retrieval-augmented generation.
+[![Repo](https://img.shields.io/badge/GitHub-medical--rag--chatbot-181717?style=flat-square&logo=github)](https://github.com/saifullah857/medical-rag-chatbot)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq%20qwen3--32b-f97316?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
 
-**Stack:** Python · LangChain · ChromaDB · Groq
-
-[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=54F2FF)](https://github.com/saifullah857/medical-rag-chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ EduFees AI
-
-An AI-powered fee-management project with an intelligent assistant workflow.
-
-**Stack:** Python · Flask · Agno · LLM APIs
-
-[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=54F2FF)](https://github.com/saifullah857/edufees-ai)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ T5 Dialogue Summarizer
-
-Transformer-based dialogue summarization using the T5 model and SAMSum dataset.
-
-**Stack:** Python · PyTorch · Hugging Face · FastAPI
-
-[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=54F2FF)](https://github.com/saifullah857/Transformer-T5-Dialogue-Summarizer)
+> AI-powered medical Q&A assistant using Retrieval-Augmented Generation. Built with LangChain, ChromaDB, and Groq (qwen3-32b), grounded in *The Gale Encyclopedia of Medicine*.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ ARIA AI Assistant
+<h3 align="center">📑 Chat With Docs</h3>
 
-A personal assistant project for AI-powered question answering and text tasks.
+[![Repo](https://img.shields.io/badge/GitHub-chat--with--docs-181717?style=flat-square&logo=github)](https://github.com/saifullah857/chat-with-docs)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-f97316?style=flat-square)
 
-**Stack:** Python · Flask · Gemini
-
-[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=54F2FF)](https://github.com/saifullah857/Aria-Assistant)
+> Retrieval-Augmented Generation chatbot that lets you ask questions across your own documents using LangChain, FAISS, and Groq.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Flappy Bird — DQN
+<h3 align="center">🏫 EduFees AI</h3>
 
-A reinforcement-learning project where a Deep Q-Network agent learns to play through rewards and experience.
+[![Repo](https://img.shields.io/badge/GitHub-edufees--ai-181717?style=flat-square&logo=github)](https://github.com/saifullah857/edufees-ai)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-6c63ff?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq%20LLaMA%203.3-f97316?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini%202.0-4285F4?style=flat-square&logo=google&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
 
-**Stack:** Python · Deep Q-Network · Reinforcement Learning
-
-[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=54F2FF)](https://github.com/saifullah857/Flappy-Bird-Game-Trained-With-DQN)
+> AI-powered College & University Fees Management System. Built with Agno agent framework, Groq LLaMA 3.3, Gemini 2.0, Flask & Excel for smart fees tracking and intelligent Q&A.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Saifi-Coder E-Learning
+<h3 align="center">🎯 Ad Generator Agent</h3>
 
-A role-based e-learning platform built as a full-stack project.
+[![Repo](https://img.shields.io/badge/GitHub-Ad--Generator--Agent-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Add-Generator-Agent)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-f59e0b?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
 
-**Stack:** Laravel · PHP · MySQL · Bootstrap
+> An AI Agent that generates outstanding, targeted ads for any business. Built with an LLM backbone for creative copy generation.
 
-[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=54F2FF)](https://github.com/saifullah857/-Saifi-Coder-E-Learning-Platform)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 ARIA AI Assistant</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Aria--Assistant-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Aria-Assistant)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%202.5-4285F4?style=flat-square&logo=google&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
+
+> ARIA — Personal AI assistant built with Flask & Google Gemini 2.5 Flash. Ask questions, summarize emails, extract action items & deadlines.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📄 Intelligent PDF Q&A</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-PDF--QA--LangChain-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-10b981?style=flat-square)
+
+> PDF Q&A with LangChain, ChromaDB & Sentence Transformers. Loads, chunks, embeds & stores docs in a persistent vector DB for fast retrieval.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📺 YouTube Analyzer Agent</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-YouTube--Analyzer-181717?style=flat-square&logo=github)](https://github.com/saifullah857/youtube_analyzer-agent)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-f59e0b?style=flat-square)
+
+> An intelligent agent that analyzes YouTube videos — transcription, summarization, and insight extraction using AI tools.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 🧠 Deep Learning & NLP
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤗 T5 Dialogue Summarizer</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-T5--Dialogue--Summarizer-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Transformer-T5-Dialogue-Summarizer)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-Transformer-8b5cf6?style=flat-square)
+
+> Fine-tuned T5-small on SAMSum dataset for abstractive dialogue summarization. End-to-end pipeline from training to local FastAPI inference.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎭 RNN Sentiment Analysis</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-RNN--Sentiment-181717?style=flat-square&logo=github)](https://github.com/saifullah857/RNN-for-Sentiments-Analysis-Project)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-LSTM-e91e63?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Sentiment-8b5cf6?style=flat-square)
+
+> Sentiment classification using Recurrent Neural Networks with LSTM layers. Trained and evaluated on real-world review datasets.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🖼️ PyTorch CIFAR-10 Classifier</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-CIFAR--10--Classifier-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-EE4C2C?style=flat-square)
+⭐ 1 star
+
+> CNN built from scratch in PyTorch classifying 10 image categories. Includes training loops, accuracy tracking, and full model evaluation.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔥 Deep Learning with PyTorch</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Deep--Learning--PyTorch-181717?style=flat-square&logo=github)](https://github.com/saifullah857/deep-learning-with-pytorch)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-Classification-00d4ff?style=flat-square)
+
+> Neuron → full ANN pipelines. Covers classification & regression on 3 real datasets: Date Fruits, Power Plant & Mobile Prices.
 
 </td>
 </tr>
 </table>
 </div>
 
-<p align="center">
-  <a href="https://github.com/saifullah857?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=54F2FF" alt="View all repositories"/>
-  </a>
-</p>
+---
 
-## `02 / technical_stack`
+### 🎮 Reinforcement Learning
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI · ML · LLMs**
+<h3 align="center">🐦 Flappy Bird with DQN</h3>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask&theme=dark" alt="AI and Python stack"/>
+[![Repo](https://img.shields.io/badge/GitHub-Flappy--Bird--DQN-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Flappy-Bird-Game-Trained-With-DQN)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DQN](https://img.shields.io/badge/Deep%20Q--Network-00c853?style=flat-square)
+![RL](https://img.shields.io/badge/Reinforcement%20Learning-ff6d00?style=flat-square)
 
-<img src="https://img.shields.io/badge/LangChain-132B2B?style=for-the-badge&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-162235?style=for-the-badge&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/RAG-063B48?style=for-the-badge&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/ChromaDB-4437A6?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Groq-4A1D16?style=for-the-badge&logoColor=white" alt="Groq"/>
-<img src="https://img.shields.io/badge/Agno-29214A?style=for-the-badge&logoColor=white" alt="Agno"/>
+> Trained a Flappy Bird AI agent using Deep Q-Network (DQN). The agent learns to play purely through trial, reward, and punishment.
 
-**Web · Data · Tools**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,php,mysql,mongodb,git,github,vscode&theme=dark" alt="Web development and tools"/>
+<h3 align="center">🧗 SARSA Cliff Walking Agent</h3>
 
+[![Repo](https://img.shields.io/badge/GitHub-SARSA--Agent-181717?style=flat-square&logo=github)](https://github.com/saifullah857/SARSA-Reinforcement-Learning-Agent-for-Cliff-Walking-Environment)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SARSA](https://img.shields.io/badge/SARSA-On--Policy-00c853?style=flat-square)
+⭐ 1 star
+
+> On-policy SARSA agent for Cliff Walking. Benchmarked vs Q-Learning with full policy visualization and reward curve analysis.
+
+</td>
+</tr>
+</table>
 </div>
 
-## `03 / github_telemetry`
+---
+
+### 📊 Machine Learning & Data Science
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🏦 CreditWise Loan System</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-CreditWise-181717?style=flat-square&logo=github)](https://github.com/saifullah857/CreditWise-Loan-Approval-System-with-dashboard)
+![ML](https://img.shields.io/badge/ML-Classifier-F7931E?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?style=flat-square)
+⭐ 1 star
+
+> Loan approval prediction ML model with an interactive dashboard for real-time inference and analysis.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 AI Attendance System</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-AI--Attendance-181717?style=flat-square&logo=github)](https://github.com/saifullah857/AI-Based-Atendence-System)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CV](https://img.shields.io/badge/Face%20%2B%20Voice-Recognition-6c63ff?style=flat-square)
+
+> Student attendance using face & voice recognition AI. Automates presence tracking with computer vision and audio processing.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🛒 SmartCart Clustering</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Smartcart-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Smartcart-Clustering-System)
+![Clustering](https://img.shields.io/badge/K--Means-Clustering-150458?style=flat-square)
+![ML](https://img.shields.io/badge/Unsupervised-ML-F7931E?style=flat-square)
+⭐ 1 star
+
+> Customer segmentation using K-Means clustering for smart retail recommendation and behavioral grouping.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🔍 Anomaly Detection Lab</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Anomaly--Detection-181717?style=flat-square&logo=github)](https://github.com/saifullah857/-Unsupervised-Learning-Anomaly-Detection)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-K--Means-6c63ff?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-Dimensionality-e91e63?style=flat-square)
+
+> Unsupervised learning notebooks covering K-Means, DBSCAN, hierarchical clustering, PCA, and outlier detection.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">📚 Supervised Learning Lab</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Supervised--Learning--Lab-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Supervised-Learning-Lab)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+> Hands-on supervised learning notebooks covering classification, regression, cross-validation, and model evaluation from scratch.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 50 ML Projects</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-50--ML--Projects-181717?style=flat-square&logo=github)](https://github.com/saifullah857/50-Machine-Learning-Projects)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+> A growing collection of 50 hands-on machine learning projects spanning classification, regression, NLP, CV, and more.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🔬 Applied ML Lab</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Applied--ML--Lab-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Applied-Machine-Learning-Lab)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+⭐ 1 star
+
+> Applied machine learning lab covering end-to-end pipelines: preprocessing, feature engineering, model training, and evaluation.
+
+</td>
+<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 🌐 Full-Stack & Web Applications
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏨 Hotel Booking App (Laravel)</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Hotel--Booking-181717?style=flat-square&logo=github)](https://github.com/saifullah857/hotel-booking-web-application)
+![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square)
+![Jetstream](https://img.shields.io/badge/Jetstream-4A90E2?style=flat-square)
+
+> Laravel 12 restaurant & room booking system with listings, booking management, gallery, admin dashboard, and email notifications.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏕️ Wonderlust MERN App</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Wonderlust--MERN-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Wonderlust-Website-Room-Booking-Website-MERN-Stack)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens)
+
+> Scalable RESTful API with Node.js & Express, JWT authentication, role-based authorization, MongoDB & clean MVC architecture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Express.js Full-Stack Practice</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-ExpressJS--Full--Stack--Practice-181717?style=flat-square&logo=github)](https://github.com/saifullah857/ExpressJS-Full-Stack-Practice-Projects)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+![Auth](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square)
+
+> A complete hands-on collection of Express.js projects — from fundamentals to full-stack applications with authentication, REST APIs, and MongoDB integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Saifi Coder E-Learning</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-E--Learning--Platform-181717?style=flat-square&logo=github)](https://github.com/saifullah857/-Saifi-Coder-E-Learning-Platform)
+![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+⭐ 1 star
+
+> A full-featured, role-based E-Learning platform built with Laravel 12 — students enroll in courses, instructors manage content, and admins control everything.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🐍 Flask Web Fundamentals</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Flask--Fundamentals-181717?style=flat-square&logo=github)](https://github.com/saifullah857/flask-web-fundamentals)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square)
+![REST](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+
+> Hands-on Flask project: dynamic routing, Jinja2 templating, form handling, flash messages, REST JSON API & template inheritance.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🕸️ Python Web Scraping & API Lab</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Web--Scraping--API--Lab-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Python-Web-Scraping-Api-Lab)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-4CAF50?style=flat-square)
+![REST](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+
+> Hands-on REST API integration & web scraping with requests, BeautifulSoup4, and pandas. Collects data from 4 public APIs and live websites, then cleans and exports it.
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 📚 Learning Resources & Cheatsheets
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🚀 GenAI & Agentic Mastery</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-GenAI--Agentic--Mastery-181717?style=flat-square&logo=github)](https://github.com/saifullah857/GenAI-Agentic-Mastery)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-10b981?style=flat-square)
+
+> A complete Generative AI & Agentic Systems course — LangChain, LangGraph, RAG, Deep Agents, Guardrails, LLM Evaluation, and LLM Gateways.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 Phidata Agent MasterGuide</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-phidata--agent--masterguide-181717?style=flat-square&logo=github)](https://github.com/saifullah857/phidata-agent-masterguide)
+![Phidata](https://img.shields.io/badge/Phidata-8b5cf6?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+> A complete Phidata AI Agent development guide — from beginner to production. Build agents, RAG apps, multi-agent teams, and voice/vision agents, then deploy with FastAPI + Docker.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🐍 Python with Saif</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-python--with--saif-181717?style=flat-square&logo=github)](https://github.com/saifullah857/python-with-saif)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+> Daily Python lectures, notes, slides & assignments — from beginner to advanced. AI chatbot powered by course notes coming soon!
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🔢 NumPy Mastery</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-NumPy--Mastery-181717?style=flat-square&logo=github)](https://github.com/saifullah857/numpy-mastery)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+> Hands-on NumPy crash course — array creation, indexing, broadcasting, vectorization. Proves NumPy is **55x faster** than Python lists!
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🗄️ MySQL for AI/ML</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-MySQL--for--AI--ML-181717?style=flat-square&logo=github)](https://github.com/saifullah857/mysql-for-ai-ml)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+> MySQL crash course for AI/ML students — from CRUD to feature engineering, churn analysis & Python-MySQL ML pipelines.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🗄️ MySQL Cheatsheet</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-MySQL--Cheatsheet-181717?style=flat-square&logo=github)](https://github.com/saifullah857/MySQL-Cheatsheet)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+> The ultimate MySQL quick-reference — queries, joins, CRUD, schema, users & more. Clean examples, pro tips, beginner-friendly.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">📊 Streamlit Cheatsheet</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Streamlit--Cheatsheet-181717?style=flat-square&logo=github)](https://github.com/saifullah857/streamlit-cheatsheet)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+> The most comprehensive, developer-friendly Streamlit reference crafted for VS Code warriors. Stop Googling. Start building.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 Gemini AI Learner</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Gemini--AI--Learner-181717?style=flat-square&logo=github)](https://github.com/saifullah857/gemini-ai-learner)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+> Jupyter playground exploring Google Gemini AI — text generation, image understanding, AI assistants, image creation & video generation.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">📉 Matplotlib & Seaborn</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Visualization--Lab-181717?style=flat-square&logo=github)](https://github.com/saifullah857/matplotlib-seaborn-visualization)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
+> Comprehensive visualization notebook — from basic plots to advanced charts using real-world datasets with Matplotlib and Seaborn.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🐼 Pandas Data Lab</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Pandas--Lab-181717?style=flat-square&logo=github)](https://github.com/saifullah857/pandas-data-lab)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+> Pandas tutorial & practice lab — Series, DataFrame, cleaning, filtering, groupby using Titanic, Iris & Air Quality datasets.
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🎨 Bootstrap Practice Kit</h3>
+
+[![Repo](https://img.shields.io/badge/GitHub-Bootstrap--Practice--Kit-181717?style=flat-square&logo=github)](https://github.com/saifullah857/bootstrap-practice-kit)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+> 34 hands-on Bootstrap 5.3 examples — Grid, Flexbox, Navbar, Cards, Carousel, Modals, Tables, Spinners & more.
+
+</td>
+<td width="33%" valign="top">
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💼 Open for Opportunities
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&hide_border=true&bg_color=0B1020&title_color=54F2FF&icon_color=54F2FF&text_color=D8E4F0&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&layout=compact&hide_border=true&bg_color=0B1020&title_color=54F2FF&text_color=D8E4F0" alt="Top languages"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19&height=2&section=header" width="60%"/>
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=saifullah857&hide_border=true&background=0B1020&ring=54F2FF&fire=FF4FD8&currStreakLabel=54F2FF&sideLabels=D8E4F0&dates=8293A8" alt="GitHub contribution streak"/>
+> 🚀 **Actively seeking** AI/ML Engineering & Full-Stack Development roles
+
+| 💼 Role | 🔍 Type | 📍 Location |
+|:---|:---|:---|
+| AI / ML Engineer | Full-time / Contract | Remote 🌍 |
+| Full-Stack Developer | Full-time / Freelance | Remote / Pakistan 🇵🇰 |
+| AI Research Assistant | Part-time / Internship | Remote 🌍 |
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0B1020&color=54F2FF&line=54F2FF&point=FF4FD8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+[![Hire Me](https://img.shields.io/badge/📧%20Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
 
 </div>
 
-## `04 / contribution_animation`
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Contribution snake — dark](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg)
-
-</div>
-
-## `05 / connect`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/saif-ullah-khalid-412221379/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=54F2FF" alt="LinkedIn"/></a>
-<a href="https://github.com/saifullah857"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=54F2FF" alt="GitHub"/></a>
-<a href="mailto:ranasaifullahkhalid2@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=FF4FD8" alt="Email"/></a>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullah857&theme=tokyonight" />
+<img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=a0aec0&dates=a0aec0" />
 
 <br/><br/>
 
-**Building intelligent systems. Solving real problems. Learning every day.**
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifullah857&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifullah857&theme=tokyonight" />
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider"/>
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah857&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<!-- FIX: Removed broken rank filter & added custom_title to force a clean render.
+     The canonical vercel.app URL is correct — if it shows an error,
+     it's a temporary GitHub API rate-limit on their end; refresh in a few minutes. -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake animation dark](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake animation light](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 🎯 Learning Roadmap
+
+```
+🤖 AI / ML Path                              🌐 Full-Stack Path
+├── ✅ PyTorch Fundamentals & CNNs           ├── ✅ MERN Stack (MongoDB, Express, React, Node)
+├── ✅ Reinforcement Learning (SARSA, DQN)   ├── ✅ Laravel 12 + PHP Backend
+├── ✅ HuggingFace & Transformers (T5, RNN)  ├── ✅ Bootstrap & Tailwind CSS
+├── ✅ LangChain + RAG + ChromaDB            ├── ✅ Flask Web Apps + REST APIs
+├── ✅ AI Agents (Agno, Gemini, LangChain)   ├── ✅ Express.js Full-Stack Projects
+├── ✅ Agentic Systems (LangGraph, Phidata)  ├── ✅ Python Web Scraping & REST APIs
+├── ✅ Supervised & Unsupervised Learning    ├── 🔄 Advanced React & State Management
+├── 🔄 LLM Fine-tuning & PEFT/LoRA           ├── 🔄 JWT Auth & Role-Based Systems
+├── ⏳ Generative AI (GANs, Diffusion)       ├── ⏳ Docker & CI/CD Pipelines
+└── ⏳ MLOps & Model Deployment at Scale     └── ⏳ Cloud Deployment (AWS / GCP)
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah857)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=140&section=footer&animation=fadeIn" />
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="60" style="border-radius:50%" alt="Saif Ullah" />
+
+<br/>
+
+*"Combining intelligent systems with practical software to solve real-world problems."*
+
+**— Saif Ullah**
 
 </div>
