@@ -32,7 +32,7 @@
 
 <!-- ═════════════════ ABOUT ═════════════════ -->
 <a name="about"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=About%20Me&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/about.svg" alt="about" />
 
 <table>
 <tr>
@@ -109,7 +109,7 @@ class SaifUllah:
 
 <!-- ═════════════════ SKILLS ═════════════════ -->
 <a name="skills"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Skills%20%26%20Tools&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/skills.svg" alt="skills" />
 
 <div align="center">
 
@@ -188,35 +188,17 @@ class SaifUllah:
 
 <br/><br/>
 
-**📊 Skill Proficiency**
-
-| Skill | Level | Bar |
-|:---|:---:|:---|
-| 🐍 Python | 78% | `███████████████▌░░░░` |
-| 🔗 LangChain / RAG | 68% | `█████████████▌░░░░░░` |
-| 🕸️ LangGraph / Multi-Agent | 65% | `█████████████░░░░░░░` |
-| 🔥 PyTorch / Deep Learning | 65% | `█████████████░░░░░░░` |
-| ⚛️ React.js | 70% | `██████████████░░░░░░` |
-| 🟢 Node.js / Express | 65% | `█████████████░░░░░░░` |
-| 🔴 Laravel / PHP | 65% | `█████████████░░░░░░░` |
-| 🤗 NLP / Transformers | 60% | `████████████░░░░░░░░` |
-| 🎮 Reinforcement Learning | 59% | `███████████▊░░░░░░░░` |
-| 🧪 LLM / RAG Evaluation | 50% | `██████████░░░░░░░░░░` |
-| 🐳 Docker | 50% | `██████████░░░░░░░░░░` |
-| ⚙️ CI/CD (GitHub Actions) | 50% | `██████████░░░░░░░░░░` |
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/skills.svg" alt="Skill proficiency" />
 
 </div>
 
 <!-- ═════════════════ EXPLORING ═════════════════ -->
 <a name="exploring"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Currently%20Exploring&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/exploring.svg" alt="exploring" />
 
 <div align="center">
 
-| 🧪 LLM & RAG Evaluation | 🛡️ Guardrails & Safety | 🐳 Docker | ⚙️ CI/CD |
-|:---:|:---:|:---:|:---:|
-| Faithfulness, answer relevance, context precision/recall | Input/output validation, human-in-the-loop checks | Containerising FastAPI + agent apps | GitHub Actions: test → build → deploy |
-| Measuring *if* a RAG system actually works | Making agents safe for sensitive domains | Reproducible environments | Automated pipelines for ML apps |
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/exploring.svg" alt="Currently exploring" />
 
 </div>
 
@@ -237,223 +219,182 @@ flowchart LR
 
 <!-- ═════════════════ PROJECTS ═════════════════ -->
 <a name="projects"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Featured%20Projects&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/projects.svg" alt="projects" />
 
 ### 🔥 Latest & Flagship
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎤 InterviewPilot AI</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-interviewpilot--ai-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/interviewpilot-ai)
-![Status](https://img.shields.io/badge/Status-Active-1f6f43?style=flat-square&labelColor=14060a)
-
-> AI-powered interview preparation platform for students, fresh graduates and junior developers targeting Lahore-based software houses. Resume analysis, AI-driven role matching and more.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/interviewpilot-ai"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/interviewpilot.svg" width="100%" alt="InterviewPilot AI" /></a>
+<br/><sub>Resume analysis, AI-driven role matching and interview practice for students, fresh graduates and junior developers.</sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">🏦 AegisBank AI</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-aegisbank--ai-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/aegisbank-ai)
-![LangGraph](https://img.shields.io/badge/LangGraph-3a1620?style=flat-square&labelColor=3a1620)
-![IF](https://img.shields.io/badge/Isolation%20Forest-3a1620?style=flat-square&labelColor=3a1620)
-![RAG](https://img.shields.io/badge/RAG-3a1620?style=flat-square&labelColor=3a1620)
-
-> Banking fraud investigation platform: rule-based risk scoring, Isolation Forest anomaly detection, a **six-agent LangGraph pipeline**, RAG-based policy retrieval and human-in-the-loop review.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/aegisbank-ai"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/aegisbank.svg" width="100%" alt="AegisBank AI" /></a>
+<br/><sub>Rule-based risk scoring, Isolation Forest anomaly detection, a six-agent LangGraph pipeline, RAG policy retrieval and human-in-the-loop review.</sub>
+<br/><br/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">💼 LinkedIn AI Analyzer</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-linkedin--ai--analyzer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/linkedin-ai-analyzer)
-![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
-![Groq](https://img.shields.io/badge/Groq-3a1620?style=flat-square&labelColor=3a1620)
-![MIT](https://img.shields.io/badge/MIT-3a1620?style=flat-square&labelColor=3a1620)
-⭐ 3
-
-> Multi-agent app analysing your resume + LinkedIn profile with **9 specialised Agno + Groq agents**: ATS scoring, recruiter verdict, keyword gaps and a prioritised career roadmap.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/linkedin-ai-analyzer"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/linkedin.svg" width="100%" alt="LinkedIn AI Analyzer" /></a>
+<br/><sub>Nine specialised agents: ATS scoring, recruiter verdict, keyword gaps and a prioritised career roadmap. ⭐ 3</sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">📊 AI Data Scientist Agent</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-ai--data--scientist--agent-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/ai-data-scientist-agent)
-![Flask](https://img.shields.io/badge/Flask-3a1620?style=flat-square&labelColor=3a1620)
-![Streamlit](https://img.shields.io/badge/Streamlit-3a1620?style=flat-square&labelColor=3a1620)
-![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
-
-> Upload a CSV, bring your own Groq API key, and get a profiled, cleaned, trained and explained ML model — an Agno agent orchestrating a deterministic scikit-learn pipeline.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/ai-data-scientist-agent"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/datascientist.svg" width="100%" alt="AI Data Scientist Agent" /></a>
+<br/><sub>Bring your own Groq key: an Agno agent orchestrates a deterministic scikit-learn pipeline.</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
 </div>
+
 
 ### 🤖 AI Agents & LLM Applications
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">💊 Medical RAG Chatbot</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-medical--rag--chatbot-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/medical-rag-chatbot)
-![LangChain](https://img.shields.io/badge/LangChain-3a1620?style=flat-square&labelColor=3a1620)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3a1620?style=flat-square&labelColor=3a1620)
-![Groq](https://img.shields.io/badge/Groq%20qwen3--32b-3a1620?style=flat-square&labelColor=3a1620)
-⭐ 2
-
-> Medical Q&A assistant using Retrieval-Augmented Generation, grounded in *The Gale Encyclopedia of Medicine*.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/medical-rag-chatbot"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/medicalrag.svg" width="100%" alt="Medical RAG Chatbot" /></a>
+<br/><sub>Medical Q&A with retrieval-augmented generation (LangChain, ChromaDB, Groq qwen3-32b). ⭐ 2</sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">📑 Chat With Docs</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-chat--with--docs-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/chat-with-docs)
-![LangChain](https://img.shields.io/badge/LangChain-3a1620?style=flat-square&labelColor=3a1620)
-![FAISS](https://img.shields.io/badge/FAISS-3a1620?style=flat-square&labelColor=3a1620)
-![Groq](https://img.shields.io/badge/Groq-3a1620?style=flat-square&labelColor=3a1620)
-
-> RAG chatbot to ask questions across your own documents using LangChain, FAISS and Groq.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/chat-with-docs"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/chatdocs.svg" width="100%" alt="Chat With Docs" /></a>
+<br/><sub>RAG chatbot to ask questions across your own documents with LangChain, FAISS and Groq.</sub>
+<br/><br/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🏫 EduFees AI</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-edufees--ai-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/edufees-ai)
-![Flask](https://img.shields.io/badge/Flask-3a1620?style=flat-square&labelColor=3a1620)
-![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
-![Gemini](https://img.shields.io/badge/Gemini%202.0-3a1620?style=flat-square&labelColor=3a1620)
-
-> College & University fees management with Agno, Groq LLaMA 3.3, Gemini 2.0, Flask and Excel.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/edufees-ai"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/edufees.svg" width="100%" alt="EduFees AI" /></a>
+<br/><sub>College and university fees management with Agno, Groq LLaMA 3.3, Gemini 2.0, Flask and Excel.</sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔁 AI Assistant + CI/CD</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-assistent--cicd--learning-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/assistent-cicd-learning)
-![Actions](https://img.shields.io/badge/GitHub%20Actions-3a1620?style=flat-square&labelColor=3a1620)
-![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
-
-> Flask AI assistant (Agno + Groq LLM) built as a hands-on project for learning CI/CD pipelines with GitHub Actions.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/assistent-cicd-learning"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/cicd.svg" width="100%" alt="AI Assistant + CI/CD" /></a>
+<br/><sub>Flask AI assistant (Agno + Groq) used to practise CI/CD with GitHub Actions.</sub>
+<br/><br/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📄 Intelligent PDF Q&A</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-PDF--QA--LangChain-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-)
-![LangChain](https://img.shields.io/badge/LangChain-3a1620?style=flat-square&labelColor=3a1620)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3a1620?style=flat-square&labelColor=3a1620)
-
-> PDF Q&A with LangChain, ChromaDB and Sentence Transformers — loads, chunks, embeds and stores docs in a persistent vector DB.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/pdfqa.svg" width="100%" alt="Intelligent PDF Q&amp;A" /></a>
+<br/><sub>Loads, chunks, embeds and stores PDFs in a persistent vector DB with Sentence Transformers.</sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">🎯 Ad Generator · 🤖 ARIA · 📺 YouTube Analyzer</h3>
-
-[![Ad](https://img.shields.io/badge/Ad--Generator-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Add-Generator-Agent)
-[![ARIA](https://img.shields.io/badge/ARIA--Assistant-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Aria-Assistant)
-[![YT](https://img.shields.io/badge/YouTube--Analyzer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/youtube_analyzer-agent)
-
-> Ad-copy generating agent · Gemini 2.5 Flash personal assistant (emails, action items, deadlines) · YouTube transcription & insight agent.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Add-Generator-Agent"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/adgen.svg" width="100%" alt="Ad Generator Agent" /></a>
+<br/><sub>An AI agent that generates targeted ad copy for any business.</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Aria-Assistant"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/aria.svg" width="100%" alt="ARIA Assistant" /></a>
+<br/><sub>Ask questions, summarise emails and extract action items and deadlines.</sub>
+<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/youtube_analyzer-agent"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/youtube.svg" width="100%" alt="YouTube Analyzer Agent" /></a>
+<br/><sub>Transcribes YouTube videos, summarises them and extracts insights.</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
 </div>
+
 
 ### 🧠 Deep Learning, NLP & Computer Vision
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎨 AI SnapPaint — Style Transfer</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-ai--neural--style--transfer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/ai-neural-style-transfer)
-![PyTorch](https://img.shields.io/badge/PyTorch-3a1620?style=flat-square&labelColor=3a1620)
-![Flask](https://img.shields.io/badge/Flask-3a1620?style=flat-square&labelColor=3a1620)
-
-> Turn any photo into a stylish AI-painted image in one tap — neural style transfer with PyTorch + Flask.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/ai-neural-style-transfer"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/snappaint.svg" width="100%" alt="AI SnapPaint" /></a>
+<br/><sub>Turn any photo into a stylish AI-painted image with PyTorch + Flask.</sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">🤗 T5 Dialogue Summarizer</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-T5--Dialogue--Summarizer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Transformer-T5-Dialogue-Summarizer)
-![HF](https://img.shields.io/badge/HuggingFace-3a1620?style=flat-square&labelColor=3a1620)
-![FastAPI](https://img.shields.io/badge/FastAPI-3a1620?style=flat-square&labelColor=3a1620)
-
-> T5-small fine-tuned on SAMSum for abstractive dialogue summarization, from training to FastAPI inference.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Transformer-T5-Dialogue-Summarizer"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/t5.svg" width="100%" alt="T5 Dialogue Summarizer" /></a>
+<br/><sub>Abstractive dialogue summarisation, from training to local FastAPI inference.</sub>
+<br/><br/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 AI Attendance System</h3>
-
-[![Repo](https://img.shields.io/badge/GitHub-AI--Attendance-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/AI-Based-Atendence-System)
-![OpenCV](https://img.shields.io/badge/OpenCV-3a1620?style=flat-square&labelColor=3a1620)
-
-> Student attendance using face and voice recognition.
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/AI-Based-Atendence-System"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/attendance.svg" width="100%" alt="AI Attendance System" /></a>
+<br/><sub>Automates student attendance with face and voice recognition.</sub>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/cifar.svg" width="100%" alt="CIFAR-10 Classifier" /></a>
+<br/><sub>CNN from scratch with training loops, accuracy tracking and evaluation. ⭐ 1</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/RNN-for-Sentiments-Analysis-Project"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/rnn.svg" width="100%" alt="RNN Sentiment Analysis" /></a>
+<br/><sub>Sentiment classification with LSTM layers on real review datasets.</sub>
+<br/><br/>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+</div>
 
-<h3 align="center">🖼️ CIFAR-10 · 🎭 RNN Sentiment · 🔥 PyTorch</h3>
 
-[![CIFAR](https://img.shields.io/badge/CIFAR--10-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code)
-[![RNN](https://img.shields.io/badge/RNN--Sentiment-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/RNN-for-Sentiments-Analysis-Project)
-[![DL](https://img.shields.io/badge/Deep--Learning--PyTorch-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/deep-learning-with-pytorch)
+### 🎮 Reinforcement Learning
 
-> CNN from scratch · LSTM sentiment classifier · ANN pipelines on Date Fruits, Power Plant & Mobile Prices.
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Flappy-Bird-Game-Trained-With-DQN"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/flappy.svg" width="100%" alt="Flappy Bird with DQN" /></a>
+<br/><sub>An agent that learns Flappy Bird purely through trial, reward and punishment.</sub>
+<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/SARSA-Reinforcement-Learning-Agent-for-Cliff-Walking-Environment"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/sarsa.svg" width="100%" alt="SARSA Cliff Walking" /></a>
+<br/><sub>Benchmarked against Q-Learning with policy visualisation and reward curves. ⭐ 1</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+</div>
 
+
+### 📊 Machine Learning & Data Science
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/CreditWise-Loan-Approval-System-with-dashboard"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/creditwise.svg" width="100%" alt="CreditWise Loan System" /></a>
+<br/><sub>Loan approval model with an interactive dashboard for real-time inference. ⭐ 1</sub>
+<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Smartcart-Clustering-System"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/smartcart.svg" width="100%" alt="SmartCart Clustering" /></a>
+<br/><sub>Customer segmentation with K-Means for smart retail recommendations. ⭐ 1</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
 </div>
 
 <details>
-<summary><b>🎮 Reinforcement Learning</b> — click to expand</summary>
+<summary><b>More ML repositories</b> — click to expand</summary>
 <br/>
 
 | Project | Description |
 |:---|:---|
-| 🐦 [Flappy Bird with DQN](https://github.com/saifullah857/Flappy-Bird-Game-Trained-With-DQN) | Agent learns Flappy Bird through trial, reward and punishment using Deep Q-Network |
-| 🧗 [SARSA Cliff Walking](https://github.com/saifullah857/SARSA-Reinforcement-Learning-Agent-for-Cliff-Walking-Environment) ⭐ | On-policy SARSA vs Q-Learning with policy visualisation and reward curves |
-
-</details>
-
-<details>
-<summary><b>📊 Machine Learning & Data Science</b> — click to expand</summary>
-<br/>
-
-| Project | Description |
-|:---|:---|
-| 🏦 [CreditWise Loan System](https://github.com/saifullah857/CreditWise-Loan-Approval-System-with-dashboard) ⭐ | Loan approval ML model with interactive dashboard |
 | 🧠 [Mental Health Score Predictor](https://github.com/saifullah857/Mental-Health-Score-Predictor) | ML model predicting mental health scores |
-| 🛒 [SmartCart Clustering](https://github.com/saifullah857/Smartcart-Clustering-System) ⭐ | K-Means customer segmentation |
 | 🔍 [Anomaly Detection Lab](https://github.com/saifullah857/-Unsupervised-Learning-Anomaly-Detection) | K-Means, DBSCAN, hierarchical clustering, PCA, outliers |
 | 📚 [Supervised Learning Lab](https://github.com/saifullah857/Supervised-Learning-Lab) | Classification, regression, cross-validation |
 | 🔬 [Applied ML Lab](https://github.com/saifullah857/Applied-Machine-Learning-Lab) ⭐ | End-to-end ML pipelines |
@@ -461,15 +402,39 @@ flowchart LR
 
 </details>
 
+### 🌐 Full-Stack & Web Applications
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/hotel-booking-web-application"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/hotel.svg" width="100%" alt="Hotel Booking App" /></a>
+<br/><sub>Listings, bookings, gallery, admin dashboard and email notifications.</sub>
+<br/><br/>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/Wonderlust-Website-Room-Booking-Website-MERN-Stack"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/wonderlust.svg" width="100%" alt="Wonderlust MERN App" /></a>
+<br/><sub>Scalable REST API with JWT auth, role-based authorization, MongoDB and MVC.</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/-Saifi-Coder-E-Learning-Platform"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/elearning.svg" width="100%" alt="Saifi Coder E-Learning" /></a>
+<br/><sub>Students enrol, instructors manage content, admins control everything. ⭐ 1</sub>
+<br/><br/>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+</div>
+
 <details>
-<summary><b>🌐 Full-Stack & Web Applications</b> — click to expand</summary>
+<summary><b>More web repositories</b> — click to expand</summary>
 <br/>
 
 | Project | Stack |
 |:---|:---|
-| 🏨 [Hotel Booking App](https://github.com/saifullah857/hotel-booking-web-application) | Laravel 12 · Livewire · Jetstream · Admin dashboard |
-| 🏕️ [Wonderlust MERN App](https://github.com/saifullah857/Wonderlust-Website-Room-Booking-Website-MERN-Stack) | React · Node · Express · JWT · MongoDB |
-| 🎓 [Saifi Coder E-Learning](https://github.com/saifullah857/-Saifi-Coder-E-Learning-Platform) ⭐ | Laravel 12 · role-based (student / instructor / admin) |
 | ⚡ [Express.js Practice Projects](https://github.com/saifullah857/ExpressJS-Full-Stack-Practice-Projects) | REST APIs · Auth · MongoDB |
 | 🐍 [Flask Web Fundamentals](https://github.com/saifullah857/flask-web-fundamentals) | Routing · Jinja2 · REST JSON API |
 | 🕸️ [Web Scraping & API Lab](https://github.com/saifullah857/Python-Web-Scraping-Api-Lab) | requests · BeautifulSoup4 · pandas |
@@ -477,16 +442,30 @@ flowchart LR
 
 </details>
 
+### 📚 Learning Resources & Cheatsheets
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/saifullah857/GenAI-Agentic-Mastery"><img src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/projects/genai.svg" width="100%" alt="GenAI &amp; Agentic Mastery" /></a>
+<br/><sub>LangChain, LangGraph, RAG, deep agents, guardrails, LLM evaluation and gateways.</sub>
+<br/><br/>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+</div>
+
 <details>
-<summary><b>📚 Learning Resources & Cheatsheets</b> — click to expand</summary>
+<summary><b>More learning repositories</b> — click to expand</summary>
 <br/>
 
 | Resource | What's inside |
 |:---|:---|
-| 🚀 [GenAI & Agentic Mastery](https://github.com/saifullah857/GenAI-Agentic-Mastery) | LangChain · LangGraph · RAG · Deep Agents · Guardrails · LLM Evaluation · LLM Gateways |
 | 🤖 [Phidata Agent MasterGuide](https://github.com/saifullah857/phidata-agent-masterguide) | Agents → multi-agent teams → FastAPI + Docker deployment |
 | 🐍 [Python with Saif](https://github.com/saifullah857/python-with-saif) | Daily lectures, notes, slides & assignments |
-| 🔢 [NumPy Mastery](https://github.com/saifullah857/numpy-mastery) | 55x faster than Python lists — with benchmarks |
+| 🔢 [NumPy Mastery](https://github.com/saifullah857/numpy-mastery) | 55x faster than Python lists, with benchmarks |
 | 🗄️ [MySQL for AI/ML](https://github.com/saifullah857/mysql-for-ai-ml) · [Cheatsheet](https://github.com/saifullah857/MySQL-Cheatsheet) | CRUD → feature engineering → ML pipelines |
 | 📊 [Streamlit Cheatsheet](https://github.com/saifullah857/streamlit-cheatsheet) | Developer-friendly reference |
 | 🤖 [Gemini AI Learner](https://github.com/saifullah857/gemini-ai-learner) | Text, image, video generation with Gemini |
@@ -498,7 +477,7 @@ flowchart LR
 
 <!-- ═════════════════ STATS ═════════════════ -->
 <a name="stats"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=GitHub%20Stats&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/stats.svg" alt="stats" />
 
 <div align="center">
 
@@ -523,26 +502,15 @@ flowchart LR
 
 <!-- ═════════════════ ROADMAP ═════════════════ -->
 <a name="roadmap"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Learning%20Roadmap&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/roadmap.svg" alt="roadmap" />
 
-```
-🤖 AI / ML Path                                  🌐 Full-Stack & DevOps Path
-├── ✅ PyTorch Fundamentals & CNNs               ├── ✅ MERN Stack (MongoDB, Express, React, Node)
-├── ✅ Reinforcement Learning (SARSA, DQN)       ├── ✅ Laravel 12 + PHP Backend
-├── ✅ HuggingFace & Transformers (T5, RNN)      ├── ✅ Bootstrap & Tailwind CSS
-├── ✅ LangChain + RAG + ChromaDB / FAISS        ├── ✅ Flask Web Apps + REST APIs
-├── ✅ AI Agents (Agno, Gemini, Phidata)         ├── ✅ Express.js Full-Stack Projects
-├── ✅ LangGraph Multi-Agent Pipelines           ├── ✅ Python Web Scraping & REST APIs
-├── ✅ Supervised & Unsupervised Learning        ├── 🔄 CI/CD with GitHub Actions
-├── 🔄 LLM & RAG Evaluation                      ├── 🔄 Docker & Containerised Deployments
-├── 🔄 LLM Fine-tuning & PEFT/LoRA               ├── 🔄 Advanced React & State Management
-├── ⏳ Generative AI (GANs, Diffusion)           ├── ⏳ Cloud Deployment (AWS / GCP)
-└── ⏳ MLOps & Model Deployment at Scale         └── ⏳ Kubernetes & Monitoring
-```
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/roadmap.svg" alt="Learning roadmap" />
+</div>
 
 <!-- ═════════════════ CONTACT ═════════════════ -->
 <a name="contact"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Open%20for%20Opportunities&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/sections/contact.svg" alt="contact" />
 
 <div align="center">
 
