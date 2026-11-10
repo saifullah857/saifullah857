@@ -1,42 +1,38 @@
 <a name="top"></a>
 
-<!-- ═════════════════ HERO ═════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,0&height=300&section=header&text=Saif%20Ullah&fontSize=80&fontColor=f5e9eb&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=20&descColor=e0728a" />
-
+<!-- ═════════════════ HERO (animated SVG) ═════════════════ -->
 <div align="center">
 
-<a href="https://github.com/saifullah857"><img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="150" style="border-radius:50%" alt="Saif Ullah" /></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E0728A&center=true&vCenter=true&width=900&lines=Building+Intelligent+%26+Scalable+AI+Applications;LangGraph+%7C+LangChain+%7C+Agno+%7C+RAG+%7C+AI+Agents;LLM+%26+RAG+Evaluation+%7C+Guardrails;Docker+%7C+CI%2FCD+%7C+FastAPI+%7C+GitHub+Actions;MERN+%7C+Laravel+%7C+Flask+%7C+Full-Stack;49%2B+Repositories+%7C+Open+to+Work" alt="Typing SVG" />
+<img width="100%" src="https://raw.githubusercontent.com/saifullah857/saifullah857/main/assets/hero.svg" alt="Saif Ullah - AI/ML Engineer" />
 
 <!-- NAVBAR -->
 <p>
-<a href="#about"><img src="https://img.shields.io/badge/About-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
-<a href="#skills"><img src="https://img.shields.io/badge/Skills-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
-<a href="#exploring"><img src="https://img.shields.io/badge/Exploring-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
-<a href="#stats"><img src="https://img.shields.io/badge/Stats-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-e0728a?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/About-3a0f1b?style=for-the-badge&labelColor=3a0f1b&color=3a0f1b" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Skills-3a0f1b?style=for-the-badge&labelColor=3a0f1b&color=3a0f1b" /></a>
+<a href="#exploring"><img src="https://img.shields.io/badge/Exploring-3a0f1b?style=for-the-badge&labelColor=3a0f1b&color=3a0f1b" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-3a0f1b?style=for-the-badge&labelColor=3a0f1b&color=3a0f1b" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/Stats-3a0f1b?style=for-the-badge&labelColor=3a0f1b&color=3a0f1b" /></a>
+<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-3a0f1b?style=for-the-badge&labelColor=3a0f1b&color=3a0f1b" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-8c1c33?style=for-the-badge&labelColor=8c1c33&color=8c1c33" /></a>
 </p>
 
 <!-- CTA -->
-<a href="https://saifullah857.github.io/saif-ullah-portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-e0728a?style=for-the-badge&labelColor=8c1c33" /></a>
+<a href="https://saifullah857.github.io/saif-ullah-portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Open%20Live%20Portfolio-e8b4a0?style=for-the-badge&labelColor=8c1c33&logoColor=14060a" /></a>
 <a href="mailto:ranasaifullahkhalid2@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Hire%20Me-8c1c33?style=for-the-badge&logo=gmail&logoColor=white&labelColor=14060a" /></a>
 <a href="https://www.linkedin.com/in/saif-ullah-khalid-412221379/"><img src="https://img.shields.io/badge/LinkedIn-8c1c33?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14060a" /></a>
+<a href="https://github.com/saifullah857"><img src="https://img.shields.io/badge/GitHub-8c1c33?style=for-the-badge&logo=github&logoColor=white&labelColor=14060a" /></a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=saifullah857&label=Profile+Views&color=8c1c33&style=flat-square)](https://github.com/saifullah857)
 [![Followers](https://img.shields.io/github/followers/saifullah857?label=Followers&style=flat-square&color=8c1c33&labelColor=14060a)](https://github.com/saifullah857?tab=followers)
 [![Repos](https://img.shields.io/badge/Repositories-49-8c1c33?style=flat-square&labelColor=14060a)](https://github.com/saifullah857?tab=repositories)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-1f6f43?style=flat-square&labelColor=14060a)](mailto:ranasaifullahkhalid2@gmail.com)
 
 </div>
 
 <!-- ═════════════════ ABOUT ═════════════════ -->
 <a name="about"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=About%20Me&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=About%20Me&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <table>
 <tr>
@@ -113,7 +109,7 @@ class SaifUllah:
 
 <!-- ═════════════════ SKILLS ═════════════════ -->
 <a name="skills"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Skills%20%26%20Tools&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Skills%20%26%20Tools&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
@@ -213,7 +209,7 @@ class SaifUllah:
 
 <!-- ═════════════════ EXPLORING ═════════════════ -->
 <a name="exploring"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Currently%20Exploring&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Currently%20Exploring&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
@@ -225,7 +221,7 @@ class SaifUllah:
 </div>
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#3a1620','primaryBorderColor':'#8c1c33','primaryTextColor':'#f5e9eb','lineColor':'#e0728a','fontFamily':'sans-serif'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#3a1620','primaryBorderColor':'#8c1c33','primaryTextColor':'#f5e9eb','lineColor':'#e8b4a0','fontFamily':'sans-serif'}}}%%
 flowchart LR
     A[📄 Data / Docs] --> B[🔎 Chunk + Embed<br/>ChromaDB · FAISS]
     B --> C[🕸️ LangGraph Agents]
@@ -241,7 +237,7 @@ flowchart LR
 
 <!-- ═════════════════ PROJECTS ═════════════════ -->
 <a name="projects"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Featured%20Projects&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Featured%20Projects&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 ### 🔥 Latest & Flagship
 
@@ -502,21 +498,21 @@ flowchart LR
 
 <!-- ═════════════════ STATS ═════════════════ -->
 <a name="stats"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=GitHub%20Stats&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=GitHub%20Stats&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&hide_border=true&bg_color=14060a&title_color=e0728a&text_color=f5e9eb&icon_color=8c1c33&ring_color=e0728a" />
-<img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&hide_border=true&background=14060a&stroke=8c1c33&ring=e0728a&fire=e0728a&currStreakLabel=e0728a&currStreakNum=f5e9eb&sideLabels=b69ba2&sideNums=f5e9eb&dates=b69ba2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&hide_border=true&bg_color=14060a&title_color=e8b4a0&text_color=f5e9eb&icon_color=8c1c33&ring_color=e8b4a0" />
+<img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&hide_border=true&background=14060a&stroke=8c1c33&ring=e8b4a0&fire=e8b4a0&currStreakLabel=e8b4a0&currStreakNum=f5e9eb&sideLabels=b69ba2&sideNums=f5e9eb&dates=b69ba2" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&layout=compact&hide_border=true&bg_color=14060a&title_color=e0728a&text_color=f5e9eb" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&layout=compact&hide_border=true&bg_color=14060a&title_color=e8b4a0&text_color=f5e9eb" />
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=14060a&color=e0728a&line=8c1c33&point=f5e9eb&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=14060a&color=e8b4a0&line=8c1c33&point=f5e9eb&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
 
 <br/>
 
@@ -527,7 +523,7 @@ flowchart LR
 
 <!-- ═════════════════ ROADMAP ═════════════════ -->
 <a name="roadmap"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Learning%20Roadmap&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Learning%20Roadmap&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 ```
 🤖 AI / ML Path                                  🌐 Full-Stack & DevOps Path
@@ -546,7 +542,7 @@ flowchart LR
 
 <!-- ═════════════════ CONTACT ═════════════════ -->
 <a name="contact"></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Open%20for%20Opportunities&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8c1c33,100:3a0f1b&height=70&section=header&text=Open%20for%20Opportunities&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
@@ -561,14 +557,14 @@ flowchart LR
 
 <br/>
 
-<a href="https://saifullah857.github.io/saif-ullah-portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-e0728a?style=for-the-badge&labelColor=8c1c33" /></a>
+<a href="https://saifullah857.github.io/saif-ullah-portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-e8b4a0?style=for-the-badge&labelColor=8c1c33" /></a>
 <a href="mailto:ranasaifullahkhalid2@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Hire%20Me-8c1c33?style=for-the-badge&logo=gmail&logoColor=white&labelColor=14060a" /></a>
 <a href="https://www.linkedin.com/in/saif-ullah-khalid-412221379/"><img src="https://img.shields.io/badge/LinkedIn-8c1c33?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14060a" /></a>
 <a href="https://github.com/saifullah857"><img src="https://img.shields.io/badge/GitHub-8c1c33?style=for-the-badge&logo=github&logoColor=white&labelColor=14060a" /></a>
 
 <br/><br/>
 
-<a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86%20Back%20to%20Top-e0728a?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86%20Back%20to%20Top-e8b4a0?style=for-the-badge&labelColor=14060a" /></a>
 
 <br/>
 
@@ -578,4 +574,4 @@ flowchart LR
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,0&height=140&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0f1b,100:8c1c33&height=140&section=footer&animation=fadeIn" />
