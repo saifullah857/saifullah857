@@ -1,44 +1,46 @@
 <a name="top"></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,19,24&height=300&section=header&text=Saif%20Ullah&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=20&descColor=c9d1d9" />
+<!-- ═════════════════ HERO ═════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,0&height=300&section=header&text=Saif%20Ullah&fontSize=80&fontColor=f5e9eb&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=20&descColor=e0728a" />
 
 <div align="center">
 
-<a href="https://github.com/saifullah857">
-<img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="150" style="border-radius:50%" alt="Saif Ullah" />
-</a>
+<a href="https://github.com/saifullah857"><img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="150" style="border-radius:50%" alt="Saif Ullah" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E0728A&center=true&vCenter=true&width=900&lines=Building+Intelligent+%26+Scalable+AI+Applications;LangGraph+%7C+LangChain+%7C+Agno+%7C+RAG+%7C+AI+Agents;LLM+%26+RAG+Evaluation+%7C+Guardrails;Docker+%7C+CI%2FCD+%7C+FastAPI+%7C+GitHub+Actions;MERN+%7C+Laravel+%7C+Flask+%7C+Full-Stack;49%2B+Repositories+%7C+Open+to+Work" alt="Typing SVG" />
+
+<!-- NAVBAR -->
+<p>
+<a href="#about"><img src="https://img.shields.io/badge/About-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Skills-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#exploring"><img src="https://img.shields.io/badge/Exploring-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/Stats-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-8c1c33?style=for-the-badge&labelColor=14060a" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-e0728a?style=for-the-badge&labelColor=14060a" /></a>
+</p>
+
+<!-- CTA -->
+<a href="https://saifullah857.github.io/saif-ullah-portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-e0728a?style=for-the-badge&labelColor=8c1c33" /></a>
+<a href="mailto:ranasaifullahkhalid2@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Hire%20Me-8c1c33?style=for-the-badge&logo=gmail&logoColor=white&labelColor=14060a" /></a>
+<a href="https://www.linkedin.com/in/saif-ullah-khalid-412221379/"><img src="https://img.shields.io/badge/LinkedIn-8c1c33?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14060a" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Building+Intelligent+%26+Scalable+AI+Applications;%F0%9F%95%B8%EF%B8%8F+LangGraph+%7C+LangChain+%7C+Agno+%7C+RAG+%7C+AI+Agents;%F0%9F%A7%AA+LLM+%26+RAG+Evaluation+%7C+Guardrails+%7C+Observability;%F0%9F%90%B3+Docker+%7C+CI%2FCD+%7C+FastAPI+%7C+GitHub+Actions;%F0%9F%8C%90+MERN+%7C+Laravel+%7C+Flask+%7C+Full-Stack;%F0%9F%9A%80+49%2B+Repositories+%7C+Open+to+Work" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- NAV BAR -->
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117&color=58a6ff" /></a>
-<a href="#skills"><img src="https://img.shields.io/badge/SKILLS-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c&labelColor=0d1117&color=ee4c2c" /></a>
-<a href="#exploring"><img src="https://img.shields.io/badge/EXPLORING-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117&color=2496ED" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0d1117?style=for-the-badge&logo=rocket&logoColor=f59e0b&labelColor=0d1117&color=f59e0b" /></a>
-<a href="#stats"><img src="https://img.shields.io/badge/STATS-0d1117?style=for-the-badge&logo=githubactions&logoColor=10b981&labelColor=0d1117&color=10b981" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=ea4335" /></a>
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=saifullah857&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/saifullah857)
-[![Followers](https://img.shields.io/github/followers/saifullah857?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117)](https://github.com/saifullah857?tab=followers)
-[![Repos](https://img.shields.io/badge/Repositories-49-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://github.com/saifullah857?tab=repositories)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-brightgreen?style=for-the-badge)](mailto:ranasaifullahkhalid2@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=saifullah857&label=Profile+Views&color=8c1c33&style=flat-square)](https://github.com/saifullah857)
+[![Followers](https://img.shields.io/github/followers/saifullah857?label=Followers&style=flat-square&color=8c1c33&labelColor=14060a)](https://github.com/saifullah857?tab=followers)
+[![Repos](https://img.shields.io/badge/Repositories-49-8c1c33?style=flat-square&labelColor=14060a)](https://github.com/saifullah857?tab=repositories)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-1f6f43?style=flat-square&labelColor=14060a)](mailto:ranasaifullahkhalid2@gmail.com)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
+<!-- ═════════════════ ABOUT ═════════════════ -->
 <a name="about"></a>
-## 🧠 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=About%20Me&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <table>
 <tr>
-<td width="37%" align="center">
+<td width="34%" align="center" valign="top">
 
 <img src="https://avatars.githubusercontent.com/u/203873233?v=4" width="190" style="border-radius:14px" alt="Saif Ullah" />
 
@@ -46,20 +48,14 @@
 
 **Saif Ullah**
 <br/>
-🤖 AI/ML Engineer · 🕸️ Agentic Systems · 💻 Full-Stack
+AI/ML Engineer · Agentic Systems · Full-Stack
 <br/>
 📍 Pakistan 🇵🇰
 <br/>
 📧 ranasaifullahkhalid2@gmail.com
 
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saifullah857)
-
 </td>
-<td width="63%">
+<td width="66%">
 
 ```python
 class SaifUllah:
@@ -102,10 +98,6 @@ class SaifUllah:
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## ⚡ What I'm Up To
-
 <div align="center">
 
 | | | |
@@ -119,97 +111,94 @@ class SaifUllah:
 
 </div>
 
----
-
+<!-- ═════════════════ SKILLS ═════════════════ -->
 <a name="skills"></a>
-## 🤖 AI / ML Skills
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Skills%20%26%20Tools&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
-**Frameworks & Libraries**
+**🤖 AI, Agents & Frameworks**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0ea5e9?style=for-the-badge&logo=langgraph&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-6c63ff?style=for-the-badge&logoColor=white)
-![Phidata](https://img.shields.io/badge/Phidata-8b5cf6?style=for-the-badge&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20LLaMA-f97316?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=for-the-badge&logo=databricks&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-8c1c33?style=for-the-badge&labelColor=14060a)
+![LangChain](https://img.shields.io/badge/LangChain-8c1c33?style=for-the-badge&logo=langchain&logoColor=white&labelColor=14060a)
+![Agno](https://img.shields.io/badge/Agno-8c1c33?style=for-the-badge&labelColor=14060a)
+![Phidata](https://img.shields.io/badge/Phidata-8c1c33?style=for-the-badge&labelColor=14060a)
+![PyTorch](https://img.shields.io/badge/PyTorch-8c1c33?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=14060a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-8c1c33?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=14060a)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-8c1c33?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=14060a)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-8c1c33?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=14060a)
+![OpenCV](https://img.shields.io/badge/OpenCV-8c1c33?style=for-the-badge&logo=opencv&logoColor=white&labelColor=14060a)
+![Pandas](https://img.shields.io/badge/Pandas-8c1c33?style=for-the-badge&logo=pandas&logoColor=white&labelColor=14060a)
+![NumPy](https://img.shields.io/badge/NumPy-8c1c33?style=for-the-badge&logo=numpy&logoColor=white&labelColor=14060a)
+![Streamlit](https://img.shields.io/badge/Streamlit-8c1c33?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=14060a)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8c1c33?style=for-the-badge&logo=google&logoColor=white&labelColor=14060a)
+![Groq](https://img.shields.io/badge/Groq%20LLaMA-8c1c33?style=for-the-badge&labelColor=14060a)
+![FAISS](https://img.shields.io/badge/FAISS-8c1c33?style=for-the-badge&labelColor=14060a)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8c1c33?style=for-the-badge&labelColor=14060a)
 
 <br/>
 
-**Domains**
+**🧪 Domains & LLMOps**
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00d4ff?style=flat-square&labelColor=0d1117)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6c63ff?style=flat-square&labelColor=0d1117)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00c853?style=flat-square&labelColor=0d1117)
-![NLP & Transformers](https://img.shields.io/badge/NLP%20%26%20Transformers-ff6d00?style=flat-square&labelColor=0d1117)
-![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-8b5cf6?style=flat-square&labelColor=0d1117)
-![RAG Systems](https://img.shields.io/badge/RAG%20%26%20Vector%20DB-10b981?style=flat-square&labelColor=0d1117)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-f59e0b?style=flat-square&labelColor=0d1117)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Orchestration-f43f5e?style=flat-square&labelColor=0d1117)
-![LLM Evaluation](https://img.shields.io/badge/LLM%20%26%20RAG%20Evaluation-14b8a6?style=flat-square&labelColor=0d1117)
-![Guardrails](https://img.shields.io/badge/Guardrails-ef4444?style=flat-square&labelColor=0d1117)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-e91e63?style=flat-square&labelColor=0d1117)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-3a1620?style=flat-square&labelColor=3a1620)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3a1620?style=flat-square&labelColor=3a1620)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-3a1620?style=flat-square&labelColor=3a1620)
+![NLP](https://img.shields.io/badge/NLP%20%26%20Transformers-3a1620?style=flat-square&labelColor=3a1620)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-3a1620?style=flat-square&labelColor=3a1620)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Vector%20DB-3a1620?style=flat-square&labelColor=3a1620)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-3a1620?style=flat-square&labelColor=3a1620)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Orchestration-3a1620?style=flat-square&labelColor=3a1620)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20%26%20RAG%20Evaluation-3a1620?style=flat-square&labelColor=3a1620)
+![Guardrails](https://img.shields.io/badge/Guardrails-3a1620?style=flat-square&labelColor=3a1620)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-3a1620?style=flat-square&labelColor=3a1620)
 
 <br/>
 
 **🌐 Full-Stack**
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React.js-8c1c33?style=for-the-badge&logo=react&logoColor=white&labelColor=14060a)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-8c1c33?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=14060a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8c1c33?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=14060a)
+![JavaScript](https://img.shields.io/badge/JavaScript-8c1c33?style=for-the-badge&logo=javascript&logoColor=white&labelColor=14060a)
+![Node.js](https://img.shields.io/badge/Node.js-8c1c33?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=14060a)
+![Express](https://img.shields.io/badge/Express.js-8c1c33?style=for-the-badge&logo=express&logoColor=white&labelColor=14060a)
+![Laravel](https://img.shields.io/badge/Laravel-8c1c33?style=for-the-badge&logo=laravel&logoColor=white&labelColor=14060a)
+![FastAPI](https://img.shields.io/badge/FastAPI-8c1c33?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=14060a)
+![Flask](https://img.shields.io/badge/Flask-8c1c33?style=for-the-badge&logo=flask&logoColor=white&labelColor=14060a)
+![PHP](https://img.shields.io/badge/PHP-8c1c33?style=for-the-badge&logo=php&logoColor=white&labelColor=14060a)
 
 <br/>
 
 **🛠️ DevOps, Databases & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8c1c33?style=for-the-badge&logo=docker&logoColor=white&labelColor=14060a)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-8c1c33?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=14060a)
+![Git](https://img.shields.io/badge/Git-8c1c33?style=for-the-badge&logo=git&logoColor=white&labelColor=14060a)
+![Linux](https://img.shields.io/badge/Linux-8c1c33?style=for-the-badge&logo=linux&logoColor=white&labelColor=14060a)
+![MongoDB](https://img.shields.io/badge/MongoDB-8c1c33?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=14060a)
+![MySQL](https://img.shields.io/badge/MySQL-8c1c33?style=for-the-badge&logo=mysql&logoColor=white&labelColor=14060a)
+![Postman](https://img.shields.io/badge/Postman-8c1c33?style=for-the-badge&logo=postman&logoColor=white&labelColor=14060a)
+![VS Code](https://img.shields.io/badge/VS_Code-8c1c33?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=14060a)
 
 <br/>
 
-**Languages**
+**💬 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8c1c33?style=for-the-badge&logo=python&logoColor=white&labelColor=14060a)
+![JavaScript](https://img.shields.io/badge/JavaScript-8c1c33?style=for-the-badge&logo=javascript&logoColor=white&labelColor=14060a)
+![PHP](https://img.shields.io/badge/PHP-8c1c33?style=for-the-badge&logo=php&logoColor=white&labelColor=14060a)
+![C](https://img.shields.io/badge/C-8c1c33?style=for-the-badge&logo=c&logoColor=white&labelColor=14060a)
+![C++](https://img.shields.io/badge/C++-8c1c33?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=14060a)
 
-</div>
+<br/><br/>
 
-### 📊 Skill Proficiency
-
-<div align="center">
+**📊 Skill Proficiency**
 
 | Skill | Level | Bar |
 |:---|:---:|:---|
 | 🐍 Python | 78% | `███████████████▌░░░░` |
-| 🕸️ LangGraph / Multi-Agent | 65% | `█████████████░░░░░░░` |
 | 🔗 LangChain / RAG | 68% | `█████████████▌░░░░░░` |
+| 🕸️ LangGraph / Multi-Agent | 65% | `█████████████░░░░░░░` |
 | 🔥 PyTorch / Deep Learning | 65% | `█████████████░░░░░░░` |
 | ⚛️ React.js | 70% | `██████████████░░░░░░` |
 | 🟢 Node.js / Express | 65% | `█████████████░░░░░░░` |
@@ -222,10 +211,9 @@ class SaifUllah:
 
 </div>
 
----
-
+<!-- ═════════════════ EXPLORING ═════════════════ -->
 <a name="exploring"></a>
-## 🔭 Currently Exploring
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Currently%20Exploring&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
@@ -237,6 +225,7 @@ class SaifUllah:
 </div>
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#3a1620','primaryBorderColor':'#8c1c33','primaryTextColor':'#f5e9eb','lineColor':'#e0728a','fontFamily':'sans-serif'}}}%%
 flowchart LR
     A[📄 Data / Docs] --> B[🔎 Chunk + Embed<br/>ChromaDB · FAISS]
     B --> C[🕸️ LangGraph Agents]
@@ -245,17 +234,14 @@ flowchart LR
     E --> F[🐳 Docker]
     F --> G[⚙️ GitHub Actions CI/CD]
     G --> H[🚀 FastAPI Deployment]
-    style C fill:#0ea5e9,color:#fff
-    style E fill:#14b8a6,color:#fff
-    style G fill:#2088ff,color:#fff
+    style C fill:#8c1c33,color:#fff
+    style E fill:#8c1c33,color:#fff
+    style G fill:#8c1c33,color:#fff
 ```
 
----
-
+<!-- ═════════════════ PROJECTS ═════════════════ -->
 <a name="projects"></a>
-## 🚀 Featured Projects
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3&height=3&section=header" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Featured%20Projects&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 ### 🔥 Latest & Flagship
 
@@ -266,10 +252,8 @@ flowchart LR
 
 <h3 align="center">🎤 InterviewPilot AI</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-interviewpilot--ai-181717?style=flat-square&logo=github)](https://github.com/saifullah857/interviewpilot-ai)
-![AI](https://img.shields.io/badge/AI-Interview%20Prep-f59e0b?style=flat-square)
-![Resume](https://img.shields.io/badge/Resume-Analysis-10b981?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-interviewpilot--ai-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/interviewpilot-ai)
+![Status](https://img.shields.io/badge/Status-Active-1f6f43?style=flat-square&labelColor=14060a)
 
 > AI-powered interview preparation platform for students, fresh graduates and junior developers targeting Lahore-based software houses. Resume analysis, AI-driven role matching and more.
 
@@ -278,11 +262,10 @@ flowchart LR
 
 <h3 align="center">🏦 AegisBank AI</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-aegisbank--ai-181717?style=flat-square&logo=github)](https://github.com/saifullah857/aegisbank-ai)
-![LangGraph](https://img.shields.io/badge/LangGraph-0ea5e9?style=flat-square)
-![IsolationForest](https://img.shields.io/badge/Isolation%20Forest-e91e63?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-10b981?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-00c853?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-aegisbank--ai-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/aegisbank-ai)
+![LangGraph](https://img.shields.io/badge/LangGraph-3a1620?style=flat-square&labelColor=3a1620)
+![IF](https://img.shields.io/badge/Isolation%20Forest-3a1620?style=flat-square&labelColor=3a1620)
+![RAG](https://img.shields.io/badge/RAG-3a1620?style=flat-square&labelColor=3a1620)
 
 > Banking fraud investigation platform: rule-based risk scoring, Isolation Forest anomaly detection, a **six-agent LangGraph pipeline**, RAG-based policy retrieval and human-in-the-loop review.
 
@@ -293,11 +276,11 @@ flowchart LR
 
 <h3 align="center">💼 LinkedIn AI Analyzer</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-linkedin--ai--analyzer-181717?style=flat-square&logo=github)](https://github.com/saifullah857/linkedin-ai-analyzer)
-![Agno](https://img.shields.io/badge/Agno-6c63ff?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-f97316?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-⭐ 3 stars
+[![Repo](https://img.shields.io/badge/GitHub-linkedin--ai--analyzer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/linkedin-ai-analyzer)
+![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
+![Groq](https://img.shields.io/badge/Groq-3a1620?style=flat-square&labelColor=3a1620)
+![MIT](https://img.shields.io/badge/MIT-3a1620?style=flat-square&labelColor=3a1620)
+⭐ 3
 
 > Multi-agent app analysing your resume + LinkedIn profile with **9 specialised Agno + Groq agents**: ATS scoring, recruiter verdict, keyword gaps and a prioritised career roadmap.
 
@@ -306,10 +289,10 @@ flowchart LR
 
 <h3 align="center">📊 AI Data Scientist Agent</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-ai--data--scientist--agent-181717?style=flat-square&logo=github)](https://github.com/saifullah857/ai-data-scientist-agent)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-6c63ff?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-ai--data--scientist--agent-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/ai-data-scientist-agent)
+![Flask](https://img.shields.io/badge/Flask-3a1620?style=flat-square&labelColor=3a1620)
+![Streamlit](https://img.shields.io/badge/Streamlit-3a1620?style=flat-square&labelColor=3a1620)
+![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
 
 > Upload a CSV, bring your own Groq API key, and get a profiled, cleaned, trained and explained ML model — an Agno agent orchestrating a deterministic scikit-learn pipeline.
 
@@ -317,8 +300,6 @@ flowchart LR
 </tr>
 </table>
 </div>
-
----
 
 ### 🤖 AI Agents & LLM Applications
 
@@ -329,11 +310,11 @@ flowchart LR
 
 <h3 align="center">💊 Medical RAG Chatbot</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-medical--rag--chatbot-181717?style=flat-square&logo=github)](https://github.com/saifullah857/medical-rag-chatbot)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq%20qwen3--32b-f97316?style=flat-square)
-⭐ 2 stars
+[![Repo](https://img.shields.io/badge/GitHub-medical--rag--chatbot-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/medical-rag-chatbot)
+![LangChain](https://img.shields.io/badge/LangChain-3a1620?style=flat-square&labelColor=3a1620)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3a1620?style=flat-square&labelColor=3a1620)
+![Groq](https://img.shields.io/badge/Groq%20qwen3--32b-3a1620?style=flat-square&labelColor=3a1620)
+⭐ 2
 
 > Medical Q&A assistant using Retrieval-Augmented Generation, grounded in *The Gale Encyclopedia of Medicine*.
 
@@ -342,10 +323,10 @@ flowchart LR
 
 <h3 align="center">📑 Chat With Docs</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-chat--with--docs-181717?style=flat-square&logo=github)](https://github.com/saifullah857/chat-with-docs)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-f97316?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-chat--with--docs-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/chat-with-docs)
+![LangChain](https://img.shields.io/badge/LangChain-3a1620?style=flat-square&labelColor=3a1620)
+![FAISS](https://img.shields.io/badge/FAISS-3a1620?style=flat-square&labelColor=3a1620)
+![Groq](https://img.shields.io/badge/Groq-3a1620?style=flat-square&labelColor=3a1620)
 
 > RAG chatbot to ask questions across your own documents using LangChain, FAISS and Groq.
 
@@ -356,10 +337,10 @@ flowchart LR
 
 <h3 align="center">🏫 EduFees AI</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-edufees--ai-181717?style=flat-square&logo=github)](https://github.com/saifullah857/edufees-ai)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-6c63ff?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini%202.0-4285F4?style=flat-square&logo=google&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-edufees--ai-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/edufees-ai)
+![Flask](https://img.shields.io/badge/Flask-3a1620?style=flat-square&labelColor=3a1620)
+![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
+![Gemini](https://img.shields.io/badge/Gemini%202.0-3a1620?style=flat-square&labelColor=3a1620)
 
 > College & University fees management with Agno, Groq LLaMA 3.3, Gemini 2.0, Flask and Excel.
 
@@ -368,9 +349,9 @@ flowchart LR
 
 <h3 align="center">🔁 AI Assistant + CI/CD</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-assistent--cicd--learning-181717?style=flat-square&logo=github)](https://github.com/saifullah857/assistent-cicd-learning)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Agno](https://img.shields.io/badge/Agno-6c63ff?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-assistent--cicd--learning-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/assistent-cicd-learning)
+![Actions](https://img.shields.io/badge/GitHub%20Actions-3a1620?style=flat-square&labelColor=3a1620)
+![Agno](https://img.shields.io/badge/Agno-3a1620?style=flat-square&labelColor=3a1620)
 
 > Flask AI assistant (Agno + Groq LLM) built as a hands-on project for learning CI/CD pipelines with GitHub Actions.
 
@@ -381,9 +362,9 @@ flowchart LR
 
 <h3 align="center">📄 Intelligent PDF Q&A</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-PDF--QA--LangChain-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6C37?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-PDF--QA--LangChain-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Intelligent-PDF-question-answering-system-with-LangChain-)
+![LangChain](https://img.shields.io/badge/LangChain-3a1620?style=flat-square&labelColor=3a1620)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3a1620?style=flat-square&labelColor=3a1620)
 
 > PDF Q&A with LangChain, ChromaDB and Sentence Transformers — loads, chunks, embeds and stores docs in a persistent vector DB.
 
@@ -392,9 +373,9 @@ flowchart LR
 
 <h3 align="center">🎯 Ad Generator · 🤖 ARIA · 📺 YouTube Analyzer</h3>
 
-[![Ad](https://img.shields.io/badge/Ad--Generator-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Add-Generator-Agent)
-[![ARIA](https://img.shields.io/badge/ARIA--Assistant-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Aria-Assistant)
-[![YT](https://img.shields.io/badge/YouTube--Analyzer-181717?style=flat-square&logo=github)](https://github.com/saifullah857/youtube_analyzer-agent)
+[![Ad](https://img.shields.io/badge/Ad--Generator-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Add-Generator-Agent)
+[![ARIA](https://img.shields.io/badge/ARIA--Assistant-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Aria-Assistant)
+[![YT](https://img.shields.io/badge/YouTube--Analyzer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/youtube_analyzer-agent)
 
 > Ad-copy generating agent · Gemini 2.5 Flash personal assistant (emails, action items, deadlines) · YouTube transcription & insight agent.
 
@@ -402,8 +383,6 @@ flowchart LR
 </tr>
 </table>
 </div>
-
----
 
 ### 🧠 Deep Learning, NLP & Computer Vision
 
@@ -414,9 +393,9 @@ flowchart LR
 
 <h3 align="center">🎨 AI SnapPaint — Style Transfer</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-ai--neural--style--transfer-181717?style=flat-square&logo=github)](https://github.com/saifullah857/ai-neural-style-transfer)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-ai--neural--style--transfer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/ai-neural-style-transfer)
+![PyTorch](https://img.shields.io/badge/PyTorch-3a1620?style=flat-square&labelColor=3a1620)
+![Flask](https://img.shields.io/badge/Flask-3a1620?style=flat-square&labelColor=3a1620)
 
 > Turn any photo into a stylish AI-painted image in one tap — neural style transfer with PyTorch + Flask.
 
@@ -425,9 +404,9 @@ flowchart LR
 
 <h3 align="center">🤗 T5 Dialogue Summarizer</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-T5--Dialogue--Summarizer-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Transformer-T5-Dialogue-Summarizer)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-T5--Dialogue--Summarizer-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Transformer-T5-Dialogue-Summarizer)
+![HF](https://img.shields.io/badge/HuggingFace-3a1620?style=flat-square&labelColor=3a1620)
+![FastAPI](https://img.shields.io/badge/FastAPI-3a1620?style=flat-square&labelColor=3a1620)
 
 > T5-small fine-tuned on SAMSum for abstractive dialogue summarization, from training to FastAPI inference.
 
@@ -438,8 +417,8 @@ flowchart LR
 
 <h3 align="center">🤖 AI Attendance System</h3>
 
-[![Repo](https://img.shields.io/badge/GitHub-AI--Attendance-181717?style=flat-square&logo=github)](https://github.com/saifullah857/AI-Based-Atendence-System)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-AI--Attendance-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/AI-Based-Atendence-System)
+![OpenCV](https://img.shields.io/badge/OpenCV-3a1620?style=flat-square&labelColor=3a1620)
 
 > Student attendance using face and voice recognition.
 
@@ -448,9 +427,9 @@ flowchart LR
 
 <h3 align="center">🖼️ CIFAR-10 · 🎭 RNN Sentiment · 🔥 PyTorch</h3>
 
-[![CIFAR](https://img.shields.io/badge/CIFAR--10-181717?style=flat-square&logo=github)](https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code)
-[![RNN](https://img.shields.io/badge/RNN--Sentiment-181717?style=flat-square&logo=github)](https://github.com/saifullah857/RNN-for-Sentiments-Analysis-Project)
-[![DL](https://img.shields.io/badge/Deep--Learning--PyTorch-181717?style=flat-square&logo=github)](https://github.com/saifullah857/deep-learning-with-pytorch)
+[![CIFAR](https://img.shields.io/badge/CIFAR--10-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/Pytorch-Cifar10-Classifier-project-code)
+[![RNN](https://img.shields.io/badge/RNN--Sentiment-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/RNN-for-Sentiments-Analysis-Project)
+[![DL](https://img.shields.io/badge/Deep--Learning--PyTorch-8c1c33?style=flat-square&logo=github&labelColor=14060a)](https://github.com/saifullah857/deep-learning-with-pytorch)
 
 > CNN from scratch · LSTM sentiment classifier · ANN pipelines on Date Fruits, Power Plant & Mobile Prices.
 
@@ -458,8 +437,6 @@ flowchart LR
 </tr>
 </table>
 </div>
-
----
 
 <details>
 <summary><b>🎮 Reinforcement Learning</b> — click to expand</summary>
@@ -523,49 +500,34 @@ flowchart LR
 
 </details>
 
----
-
+<!-- ═════════════════ STATS ═════════════════ -->
 <a name="stats"></a>
-## 📊 GitHub Statistics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=GitHub%20Stats&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saifullah857&theme=tokyonight" />
-<img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=a0aec0&dates=a0aec0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifullah857&show_icons=true&hide_border=true&bg_color=14060a&title_color=e0728a&text_color=f5e9eb&icon_color=8c1c33&ring_color=e0728a" />
+<img width="49%" src="https://streak-stats.demolab.com?user=saifullah857&hide_border=true&background=14060a&stroke=8c1c33&ring=e0728a&fire=e0728a&currStreakLabel=e0728a&currStreakNum=f5e9eb&sideLabels=b69ba2&sideNums=f5e9eb&dates=b69ba2" />
 
-<br/><br/>
+<br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifullah857&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifullah857&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah857&layout=compact&hide_border=true&bg_color=14060a&title_color=e0728a&text_color=f5e9eb" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" />
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah857&theme=tokyonight" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=14060a&color=e0728a&line=8c1c33&point=f5e9eb&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=saifullah857&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" width="100%" />
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifullah857&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Saif%20Ullah's%20Contribution%20Graph" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
+<br/>
 
 ![snake animation dark](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake-dark.svg#gh-dark-mode-only)
 ![snake animation light](https://raw.githubusercontent.com/saifullah857/saifullah857/output/github-snake.svg#gh-light-mode-only)
 
 </div>
 
----
-
-## 🎯 Learning Roadmap
+<!-- ═════════════════ ROADMAP ═════════════════ -->
+<a name="roadmap"></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Learning%20Roadmap&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 ```
 🤖 AI / ML Path                                  🌐 Full-Stack & DevOps Path
@@ -582,10 +544,9 @@ flowchart LR
 └── ⏳ MLOps & Model Deployment at Scale         └── ⏳ Kubernetes & Monitoring
 ```
 
----
-
+<!-- ═════════════════ CONTACT ═════════════════ -->
 <a name="contact"></a>
-## 💼 Open for Opportunities
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=8c1c33&height=70&section=header&text=Open%20for%20Opportunities&fontSize=30&fontColor=f5e9eb&fontAlignY=52" />
 
 <div align="center">
 
@@ -600,24 +561,21 @@ flowchart LR
 
 <br/>
 
-[![Hire Me](https://img.shields.io/badge/📧%20Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranasaifullahkhalid2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ullah-khalid-412221379/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saifullah857)
+<a href="https://saifullah857.github.io/saif-ullah-portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-e0728a?style=for-the-badge&labelColor=8c1c33" /></a>
+<a href="mailto:ranasaifullahkhalid2@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20Hire%20Me-8c1c33?style=for-the-badge&logo=gmail&logoColor=white&labelColor=14060a" /></a>
+<a href="https://www.linkedin.com/in/saif-ullah-khalid-412221379/"><img src="https://img.shields.io/badge/LinkedIn-8c1c33?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14060a" /></a>
+<a href="https://github.com/saifullah857"><img src="https://img.shields.io/badge/GitHub-8c1c33?style=for-the-badge&logo=github&logoColor=white&labelColor=14060a" /></a>
+
+<br/><br/>
+
+<a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86%20Back%20to%20Top-e0728a?style=for-the-badge&labelColor=14060a" /></a>
 
 <br/>
-
-<a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-58a6ff?style=for-the-badge&labelColor=0d1117" /></a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12&height=140&section=footer&animation=twinkling" />
-
-<div align="center">
 
 *"Combining intelligent systems with practical software to solve real-world problems."*
 
 **— Saif Ullah**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,0&height=140&section=footer&animation=twinkling" />
