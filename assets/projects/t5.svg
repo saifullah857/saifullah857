@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 250" width="480" height="250" role="img" aria-label="T5 Dialogue Summarizer: T5-small fine-tuned on SAMSum">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c0710"/><stop offset=".55" stop-color="#2b0a15"/><stop offset="1" stop-color="#12050a"/></linearGradient>
+<linearGradient id="wine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8c1c33"/><stop offset="1" stop-color="#c2415e"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c2415e"/><stop offset="1" stop-color="#e8b4a0"/></linearGradient>
+<linearGradient id="gn" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#f5e9eb"/><stop offset=".5" stop-color="#e8b4a0"/><stop offset="1" stop-color="#f5e9eb"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="b1"><stop offset="0" stop-color="#8c1c33" stop-opacity=".55"/><stop offset="1" stop-color="#8c1c33" stop-opacity="0"/></radialGradient>
+<radialGradient id="b2"><stop offset="0" stop-color="#e8b4a0" stop-opacity=".2"/><stop offset="1" stop-color="#e8b4a0" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#e8b4a0" opacity=".12"/></pattern>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="r"><rect width="480" height="250" rx="16"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="480" height="250" fill="url(#bg)"/><rect width="480" height="250" fill="url(#dots)"/>
+<circle r="170" fill="url(#b1)"><animate attributeName="cx" values="117;241;117" dur="13s" repeatCount="indefinite"/><animate attributeName="cy" values="40;140;40" dur="13s" repeatCount="indefinite"/></circle>
+<circle r="150" fill="url(#b2)"><animate attributeName="cx" values="430;330;430" dur="15s" repeatCount="indefinite"/><animate attributeName="cy" values="230;120;230" dur="15s" repeatCount="indefinite"/></circle>
+<rect width="480" height="30" fill="#1f0b11"/><line x1="0" y1="30" x2="480" y2="30" stroke="#3a1620"/>
+<circle cx="18" cy="15" r="4.5" fill="#8c1c33"/><circle cx="33" cy="15" r="4.5" fill="#b4506a"/><circle cx="48" cy="15" r="4.5" fill="#e8b4a0"/>
+<rect x="66" y="5" width="232.0" height="20" rx="10" fill="#14060a" stroke="#3a1620"/><circle cx="80" cy="15" r="3.2" fill="#4ade80"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="91" y="19" font-family="Consolas, Menlo, monospace" font-size="11" fill="#b69ba2">Transformer-T5-Dialogue-Summa…</text>
+<text x="28" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="url(#gn)">T5 Dialogue Summarizer</text>
+<text x="28" y="97" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e8b4a0">T5-small fine-tuned on SAMSum</text>
+<path d="M61.6 150 L421.6 150" stroke="#8c1c33" stroke-width="1.6"/>
+<circle r="3.8" fill="#e8b4a0" filter="url(#glow)"><animateMotion dur="4.0s" repeatCount="indefinite" path="M61.6 150 L421.6 150"/></circle>
+<rect x="28.0" y="135" width="67.2" height="30" rx="15" fill="#2a0d15" stroke="#e8b4a0" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.04;.22;1" dur="4.0s" begin="0.00s" repeatCount="indefinite"/></rect><text x="61.6" y="154" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#f5e9eb" text-anchor="middle">Dialogue</text>
+<rect x="120.4" y="135" width="67.2" height="30" rx="15" fill="#2a0d15" stroke="#e8b4a0" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.04;.22;1" dur="4.0s" begin="1.03s" repeatCount="indefinite"/></rect><text x="154.0" y="154" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#f5e9eb" text-anchor="middle">Tokenize</text>
+<rect x="212.8" y="135" width="67.2" height="30" rx="15" fill="url(#wine)" stroke="#e8b4a0" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.04;.22;1" dur="4.0s" begin="2.05s" repeatCount="indefinite"/></rect><text x="246.4" y="154" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#f5e9eb" text-anchor="middle">T5-small</text>
+<rect x="305.2" y="135" width="60.8" height="30" rx="15" fill="#2a0d15" stroke="#e8b4a0" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.04;.22;1" dur="4.0s" begin="3.04s" repeatCount="indefinite"/></rect><text x="335.6" y="154" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#f5e9eb" text-anchor="middle">Summary</text>
+<rect x="391.2" y="135" width="60.8" height="30" rx="15" fill="#2a0d15" stroke="#e8b4a0" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".35;1;.35;.35" keyTimes="0;.04;.22;1" dur="4.0s" begin="4.00s" repeatCount="indefinite"/></rect><text x="421.6" y="154" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#f5e9eb" text-anchor="middle">FastAPI</text>
+<rect x="28.0" y="206" width="89.3" height="22" rx="11" fill="#2a0d15" stroke="#3a1620"/><text x="72.7" y="221" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#f5e9eb" text-anchor="middle">HuggingFace</text>
+<rect x="125.3" y="206" width="64.1" height="22" rx="11" fill="#2a0d15" stroke="#3a1620"/><text x="157.3" y="221" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#f5e9eb" text-anchor="middle">PyTorch</text>
+<rect x="197.4" y="206" width="64.1" height="22" rx="11" fill="#2a0d15" stroke="#3a1620"/><text x="229.4" y="221" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#f5e9eb" text-anchor="middle">FastAPI</text>
+
+</g><rect x=".5" y=".5" width="479" height="249" rx="16" fill="none" stroke="#3a1620"/></svg>
